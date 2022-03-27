@@ -1,0 +1,716 @@
+Số nhị phân là gì?;;;Câu trả lời đúng là: Các số 1 và 0.
+Người và máy tính giao tiếp thông qua:;;;Câu trả lời đúng là: Bàn phím và màn hình
+Chọn câu trả lời ĐÚNG nhất: USB là;;;Câu trả lời đúng là: Thiết bị lưu trữ ngoài.
+Trong danh sách dưới đây, hệ điều hành nào không phải là hệ điều hành đa nhiệm (multitask);;;Câu trả lời đúng là: DOS
+Trong MS Windows, để đến ngay ô tìm kiếm của Windows Explorer phải sử dụng phím tắt:;;;Câu trả lời đúng là: F3
+Đâu là đường dẫn chính xác trong Windows?;;;Câu trả lời đúng là: C:\K5A1\Tinhoc
+Để kết nối và sử dụng thư mục ThongBaoKhan đã được chia sẻ từ địa chỉ máy 10.6.1.54, khi vào Start-Run, phải nhập chuẩn xâu ký tự:;;;Câu trả lời đúng là: \\10.6.1.54\ThongBaoKhan
+Bạn chỉ xem những e-mail được gửi từ những người đáng tin là có thể tránh được Virus. Đúng hay sai?;;;Câu trả lời đúng là: Sai
+Trong hệ điều hành Windows, máy tính đọc dữ liệu nhanh nhất từ đâu:;;;Câu trả lời đúng là: Đĩa cứng.
+RAM là viết tắt của;;;Câu trả lời đúng là: Random Access Memory.
+Trong những tình huống hoặc lĩnh vực nào sau đây, con người làm việc tốt hơn máy tính;;;Câu trả lời đúng là: Nhận dạng.
+Trong hệ điều hành Windows, phím tắt nào giúp người dùng truy cập nhanh thực đơn Start để Shutdown máy?;;;Câu trả lời đúng là: Ctrl + Esc.
+Trong hệ điều hành Windows, để thiết đặt lại hệ thống chọn chức năng:;;;Câu trả lời đúng là: Control Panel.
+﻿Có thể đóng một ứng dụng đang chạy trên Windows bằng cách sử dụng tổ hợp phím:;;;Câu trả lời đúng là: Alt + F4
+Máy in là thiết bị;;;Câu trả lời đúng là: Ra.
+Nếu một máy tính bị nghi ngờ là nhiễm virus thì cách thức tốt nhất để kiểm tra và diệt virus là gì?;;;Câu trả lời đúng là: Cài đặt một chương trình chống virus, quét virus các ổ đĩa của máy tính và cho chương trình này loại bỏ virus.
+Trong hệ điều hành Windows, muốn đổi tên thư mục hoặc file đang chọn có thể sử dụng phím?;;;Câu trả lời đúng là: F2
+Phải giữ phím nào khi thao tác chọn nhiều file liên tục trong cùng một thư mục?;;;Câu trả lời đúng là: Shift
+Windows là tên của:;;;Câu trả lời đúng là: Hệ điều hành được viết bởi Microsoft.
+Khi sử dụng hồ sơ điện tử thay cho hồ sơ giấy, ví dụ như bảng các câu hỏi trực tuyến. Bạn thấy ưu điểm nào sau đây nổi bật nhất?;;;Câu trả lời đúng là: Việc tiêu thụ giấy giảm.
+Để khởi động lại máy tính, thao tác nào dưới đây là SAI?;;;Câu trả lời đúng là: Bấm nút Power trên hộp máy.
+Việc trang bị kiến thức bảo mật thông tin là cần thiết và quan trọng với tất cả mọi người trong xã hội hiện đại. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Khi chia sẻ tài nguyên trong mạng nội bộ, loại tài khoản nào sau đây không được nhắc đến?;;;Câu trả lời đúng là: Có quyền cao hơn tài khoản quản trị.
+Vấn đề sức khỏe phổ biến của người sử dụng máy tính là các chấn thương cổ tay. Nguyên nhân của chấn thương thông thường là gì?;;;Câu trả lời đúng là: Sử dụng bàn phím lâu.
+Tại sao không nên sao chép một trò chơi từ đĩa CDROM mà không được sự cho phép của người/tổ chức sở hữu trò chơi này?;;;Câu trả lời đúng là: Bởi vì đó là vi phạm bản quyền.
+Để chuyển đổi màn hình làm việc giữa các chương trình ứng dụng đang mở đồng thời, sử dụng tổ hợp phím:;;;Câu trả lời đúng là: Alt + Tab
+Lợi ích của GUI (Graphic User Interface) là gì?;;;Câu trả lời đúng là: GUI cho phép dùng con chuột để thao tác với máy tính.
+Lệnh nào sau đây cho biết địa chỉ IP của máy tính?;;;Câu trả lời đúng là: IPCONFIG
+Cần phải hủy tất cả các tài liệu khi chúng không còn phù hợp với khách hàng, doanh nghiệp hoặc cá nhân nhất định để hạn chế rủi ro không đáng có. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong MS Windows, khi một tệp mang thuộc tính “Hidden” tức là:;;;Câu trả lời đúng là: Nó bị ẩn.
+Trong hệ điều hành Windows, để thu nhỏ cửa sổ đang sử dụng, sử dụng tổ hợp phím:;;;Câu trả lời đúng là: Alt + Space, sau đó nhấn N.
+Đơn vị đo lượng thông tin là;;;Câu trả lời đúng là: Bit
+Phần mềm chống Virus chỉ bảo vệ máy tính phần nào, chứ không thể hoàn toàn chống được các chương trình độc hại. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Đâu là thiết bị nhập dữ liệu?;;;Câu trả lời đúng là: Máy quét (scan) và đầu đọc mã vạch.
+Windows là hệ điều hành:;;;Câu trả lời đúng là: Đa nhiệm, một người dùng.
+Ổ DVD Combo có chức năng nào sau đây?;;;Câu trả lời đúng là: Đọc và ghi đĩa CD, DVD.
+Chuỗi tìm kiếm nào dưới đây là ĐÚNG khi muốn tìm kiếm cả 3 tệp tin: "ngay251205.txt", "day112cp.doc" và "pay.xls"?;;;Câu trả lời đúng là: *ay*
+Trong hệ điều hành Windows, có thể format ổ chứa hệ điều hành không?;;;Câu trả lời đúng là: Không thể nếu đang sử dụng hệ điều hành được đặt trên ổ đĩa đó.
+Thông tin là gì?;;;Câu trả lời đúng là: Là tất cả những gì mang lại cho con người hiểu biết.
+Công ty X mua một chương trình máy tính, chương trình này sẽ được cài đặt miễn phí trong nội bộ công ty trong trường hợp:;;;Câu trả lời đúng là: Khi bản quyền phần mềm cho phép điều này.
+Thuật ngữ “Thương mại điện tử” nghĩa là;;;Câu trả lời đúng là: Mua và bán hàng qua mạng máy tính Internet.
+Phần mềm Windows, Linux và OS2 có đặc điểm gì chung;;;Câu trả lời đúng là: Tất cả đều là hệ điều hành.
+Virus máy tính;;;Câu trả lời đúng là: Là một chương trình máy tính.
+Tốc độ truy cập mạng được xác định theo đơn vị;;;Câu trả lời đúng là: kbps.
+Một khi bạn tương tác với các Website sẽ có nhiều thông tin được tải xuống máy tính mà bạn không nhìn thấy và điều đó cũng có nghĩa là máy tính vẫn có nguy cơ bị các phần mềm ác tính tấn công. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Chọn đáp án SaiKhi tiến hành trao đổi thông tin với người khác dù bằng phương tiện điện tử hay các hình thức khác, bạn cần phải:;;;Câu trả lời đúng là: Đăng ký bảo mật tài khoản của bạn
+Khi các biểu tượng trên màn hình Desktop windows bị ẩn hết. Thao tác nào sau đây để hiển thị các biểu tượng trên màn hình Desktop?;;;Câu trả lời đúng là: Nhấn phải chuột vào màn hình nền, chọn View, chọn tiếp Show desktop icons.
+Những người được quyền sử dụng có thể truy xuất thông tin khi họ cần;;;Câu trả lời đúng là: Tính bảo mật
+Nhìn vào các tham số cấu hình của một máy tính: 1.8GHz, 20GB, 1GB con số 20GB là thông số gì?;;;Câu trả lời đúng là: Dung lượng của ổ đĩa cứng.
+Lời khuyên khi sử dụng mật khẩu máy tính là:;;;Câu trả lời đúng là: Không bao giờ cho người khác biết mật khẩu của bạn.
+Đảm bảo thông tin chỉ được tiếp cận bởi những người được cấp quyền tương ứng;;;Câu trả lời đúng là: Tính trọn vẹn
+Mạng máy tính là;;;Câu trả lời đúng là: Các máy tính được kết nối với nhau qua các kênh truyền tín hiệu vật lý để chia sẻ tài nguyên và thông tin.
+Trong hệ điều hành Windows, phần mềm tiện ích nào hoạt động như một máy tính bỏ túi?;;;Câu trả lời đúng là: Calculator
+Thông số "7200 rpm" là của thiết bị nào?;;;Câu trả lời đúng là: HDD.
+1 byte bằng:;;;Câu trả lời đúng là: 8 bit
+Lan rất cẩn thận cô chỉ nhận các dữ liệu được chứa trong CD, USB, … từ bạn bè hoặc đồng nghiệp đáng tin cậy và cho rằng như vậy sẽ không bị nguy cơ bị các loại Virus tấn công hoặc mất mát dữ liệu. Đúng hay sai?;;;Câu trả lời đúng là: Sai
+Thành phần nào dưới đây không thuộc cửa sổ thư mục:;;;Câu trả lời đúng là: Con trỏ chuột.
+Chuỗi tìm kiếm nào sau đây sẽ trả về được 3 file: "sayit.txt", "day1.doc" và "pay.mon"?;;;Câu trả lời đúng là: ?ay*.*
+Một số mã độc có khả năng tự động gửi các e-mail giả từ hộp thư của bạn bè, đồng nghiệp của bạn. Nếu nội dung e-mail có dấu hiệu đáng ngờ, bạn nên tránh mở các tệp đính kèm. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Modem là thiết bị dùng để:;;;Câu trả lời đúng là: Chuyển đổi tín hiệu số của máy tính sang dạng tín hiệu tương tự để truyền được trên đường điện thoại.
+Trong hệ điều hành Windows, phím tắt để mở Windows Explorer là:;;;Câu trả lời đúng là: Windows + E
+Phát biểu nào dưới đây là SAI: Trên màn hình nền Desktop, có thể thực hiện thao tác:;;;Câu trả lời đúng là: Phóng to hoặc thu nhỏ màn hình nền Desktop (với cùng 1 độ phân giải ví dụ 800x600).
+Trong MS Windows, nhấn tổ hợp phím nào sẽ thực hiện Dán (Paste) thư mục từ bộ nhớ đệm vào sau vị trí con trỏ?;;;Câu trả lời đúng là: Ctrl + V
+﻿Tốc độ truyền dữ liệu tối đa trên lý thuyết của USB 3.0 là;;;Câu trả lời đúng là: 4,8 Gbps.
+Mặc dù phần mềm chống Virus đang hoạt động trên máy tính cũng chưa chắc chắn sẽ bảo vệ máy tính khỏi các chương trình độc hại. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Phần mềm nào sau đây có thể đọc các file định PDF?;;;Câu trả lời đúng là: Foxit Reader.
+Một khách hàng muốn thực hiện một cuộc khảo sát quan e-mail, vì thế anh ta yêu cầu Lan lập một danh sách nhỏ bao gồm họ tên, địa chỉ và e-mail phục vụ cho cuộc khảo sát. Mặc dù họ tên và địa chỉ không đủ để định danh nhưng vẫn phải hết sức cẩn thận bởi nếu chúng sử dụng kết hợp với các thông tin cá nhân khác có thể dẫn đến vi phạm việc bảo mật thông tin riêng tư. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong MS Windows, để chọn Toàn bộ đối tượng (thư mục, tệp) thì nhấn tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + A
+Khi bật máy tính, thiết bị nào sau đây được dùng để lưu trữ các chương trình ban đầu phục vụ cho việc khởi động máy?;;;Câu trả lời đúng là: ROM
+Mai thường lưu giữ các tài liệu cũ để xem lại. Cô hầu như không bao giờ tiêu hủy chúng ngay cả khi chúng không còn phù hợp hay không còn giá trị sử dụng. Đúng hay sai?;;;Câu trả lời đúng là: Sai
+Lợi thế của mua hàng trực tuyến so với mua hàng bình thường ở cửa hàng là gì?;;;Câu trả lời đúng là: Có thể mua hàng trong suốt 24h trong một ngày.
+Trong những tình huống nào sau đây, máy tính thực thi công việc tốt hơn con người?;;;Câu trả lời đúng là: Khi thực hiện một phép toán phức tạp.
+Có thể đóng một ứng dụng đang chạy trên Windows bằng cách sử dụng tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + W
+﻿Trong hệ điều hành Windows, để đến ngay thanh địa chỉ của Windows Explorer phải sử dụng tổ hợp phím:;;;Câu trả lời đúng là: Alt + D
+Khi mất điện đột ngột, dữ liệu lưu trữ trong thiết bị nào dưới đây sẽ mất?;;;Câu trả lời đúng là: RAM
+Tất cả dữ liệu quan trọng đều cần được tiêu hủy ngay khi không dùng nữa. Việc vứt những tài liệu quan trọng vào sọt rác là rất nguy hiểm. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Hãy chọn đáp án sai:Những tác hại của các phần mềm hoặc Website độc hại là gì?;;;Câu trả lời đúng là: Phá hỏng máy tính của bạn
+Chọn đáp án phù hợpBảo vệ sự chính xác, hoàn chỉnh của thông tin và thông tin chỉ được thay đổi bởi những người được cấp quyền.;;;Câu trả lời đúng là: Tính sẵn sàng
+Để thiết lập quyền chỉ đọc cho một tài khoản khi chia sẻ tài nguyên, lựa chọn tùy chọn nào dưới đây:;;;Câu trả lời đúng là: Read.
+Cơ chế plug and play là cơ chế;;;Câu trả lời đúng là: Tự động phát hiện các thiết bị mới và tự động cảnh báo hoặc bổ sung chương trình điều khiển cho thiết bị mới.
+Bàn phím là thiết bị;;;Câu trả lời đúng là: Vào
+Các phần mềm MS Word, MS Excel, MS Access, MS PowerPoint, MS Internet Explorer thuộc nhóm phần mềm nào?;;;Câu trả lời đúng là: Nhóm phần mềm ứng dụng.
+Màn hình là thiết bị;;;Câu trả lời đúng là: Ra.
+Ổ đĩa CDROM là thiết bị:;;;Câu trả lời đúng là: Vào
+﻿1 kilobyte bằng:;;;Câu trả lời đúng là: 1024 byte
+Dưới góc độ địa lý, mạng máy tính được phân loại thành:;;;Câu trả lời đúng là: Mạng cục bộ, mạng diện rộng, mạng toàn cầu.
+Ổ cứng là;;;Câu trả lời đúng là: Thiết bị lưu trữ ngoài.
+Trong MS Windows, nhấn tổ hợp phím nào sẽ thực hiện Sao chép (Copy) thư mục vào bộ nhớ đếm?;;;Câu trả lời đúng là: Ctrl + C
+Tại sao máy tính xách tay có thể gây rủi ro cho an ninh của công ty?;;;Câu trả lời đúng là: Bởi vì những người không được phép có thể đọc được những thông tin mật nếu máy tính bị lấy cắp.
+Loại phím nào trên bàn phím mà chức năng của nó được xác định tùy thuộc vào các phần mềm cụ thể?;;;Câu trả lời đúng là: Phím chức năng.
+Hệ điều hành MS DOS là hệ điều hành:;;;Câu trả lời đúng là: Đơn nhiệm.
+Trong MS Windows, nhấn tổ hợp phím nào sẽ thực hiện Cắt (Cut) văn bản vào bộ nhớ đếm?;;;Câu trả lời đúng là: Ctrl + X
+Phát biểu nào sau đây là ĐÚNG nhất:;;;Câu trả lời đúng là: Thư mục có thể chứa thư mục con và tệp tin.
+Trong chiếc USB bị hỏng của Lan có chứa 1 số tài liệu về thông tin khách hàng của công ty. Lan nghĩ rằng USB bị hỏng thì những tài liệu trong đó cũng hỏng theo nên cô đã vứt chiếc USB đi. Đúng hay sai?;;;Câu trả lời đúng là: Sai
+Tin học là;;;Câu trả lời đúng là: Khoa học xử lý thông tin tự động dựa trên máy tính điện tử.
+Điều gì mà tất cả các Virus máy tính đều có thể thực hiện?;;;Câu trả lời đúng là: Tự nhân bản.
+Trong MS Windows, muốn hiển thị ô Check box dùng chọn nhiều thư mục và tệp để thao tác, trên Windows Explorer thực hiện:;;;Câu trả lời đúng là: Vào View, chọn Item Check Boxes.
+Hãy chọn một đáp án saiĐể đảm bảo an ninh và bảo mật thông tin tại nơi làm việc, bạn cần lưu ý:;;;Câu trả lời đúng là: Không cần kiểm tra mức độ an toàn của hệ thống thông tin.
+Mục đích của công việc định dạng đĩa là gì?;;;Câu trả lời đúng là: Tạo một đĩa trắng đúng khuôn dạng để lưu trữ dữ liệu.
+Mạng WAN:;;;Câu trả lời đúng là: Cho phép kết nối các mạng LAN nhỏ lại thành một mạng duy nhất.
+Trong những công việc dưới đây, công việc nào con người làm tốt hơn máy tính;;;Câu trả lời đúng là: Nhận dạng các sự vật.
+Chức năng nào có thể dùng để đóng một ứng dụng đang chạy trên Windows?;;;Câu trả lời đúng là: Close
+Hệ điều hành Windows 10 được phát hành trên toàn thế giới vào năm?;;;Câu trả lời đúng là: 2014
+Một máy tính có một ổ đĩa cứng chia làm hai phân vùng. Tên ổ đĩa logic mà hệ điều hành quản lý đối với 2 phân vùng này là:;;;Câu trả lời đúng là: C: và D:
+Chương trình ứng dụng nào tạo ra tệp tin có phần mở rộng tự đặt là txt?;;;Câu trả lời đúng là: Notepad
+Phát biểu nào sau đây là ĐÚNG;;;Câu trả lời đúng là: GUI là viết tắt của Graphic User Interface.
+Trên thư mục gốc của đĩa D có chứa thư mục DETHI, các tệp *.BAT và tệp COMMAND.COM. Trong Thư mục DETHI, có chứa các thư mục KY1, KY2. Trong KY1 có chứa các thư mục TOAN, LY. Trong thư mục TOAN có chứa các tệp là DETHI1.TXT, DETHI2.TXT. Trong thư mục LY c;;;Câu trả lời đúng là: \DETHI\KY1\TOAN\DETHI1.TXT
+Chức năng nào dùng để xoá bỏ thư mục trong Windows?;;;Câu trả lời đúng là: Delete
+CPU có nghĩa là;;;Câu trả lời đúng là: Central Processing Unit.
+Trong hệ điều hành Windows, driver được hiểu là?;;;Câu trả lời đúng là: Chương trình giúp Windows điều khiển các thiết bị ngoại vi.
+Trong hệ điều hành Windows, để chụp ảnh toàn bộ màn hình máy tính hiện tại phải sử dụng phím:;;;Câu trả lời đúng là: PrintScreen.
+Trong cửa sổ ListView của Windows Explorer, kiểu hiển thị nào cho phép người sử dụng có thể biết được kích thước của một file hiển thị trên cửa sổ đó?;;;Câu trả lời đúng là: Details
+Trong hệ điều hành Windows, thao tác Drag and Drop (kéo thả chuột) được sử dụng khi muốn:;;;Câu trả lời đúng là: Di chuyển đối tượng đến vị trí mới.
+Cái tên nào sau đây không phải là một hệ điều hành?;;;Câu trả lời đúng là: UPS
+Trong danh sách dưới đây, đâu là thiết bị mạng?;;;Câu trả lời đúng là: Hub
+Trước khi xử lý các thiết bị điện tử, bạn cần đảm bảo rằng các thông tin quan trọng đã được xóa bỏ và không thể phục hồi được. Ví dụ: trong trường hợp USB hỏng mà bạn vứt đi, những người am hiểu về máy tính có thể khôi phục lại những tập tin bị hỏng. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong hệ điều hành Windows với tiện ích Windows Explorer thì việc nhấn tổ hợp phím Alt + Mũi tên qua trái sẽ tương ứng với thao tác nhấn chuột vào nút gì trên thanh công cụ?;;;Câu trả lời đúng là: Back
+Cổng nào sau đây là cổng kết nối giữa màn hình và máy tính?;;;Câu trả lời đúng là: VGA
+Đơn vị đo độ sáng của thiết bị máy chiếu là:;;;Câu trả lời đúng là: Lumens
+Chức năng nào dùng để đổi tên thư mục trong Windows?;;;Câu trả lời đúng là: Rename.
+Linh hay vứt các tài liệu in hỏng hoặc bị lỗi vào sọt rác. Cô nghĩ việc đó là bình thường vì sọt rác công ty thường được làm sạch hàng ngày. Đúng hay sai?;;;Câu trả lời đúng là: Sai
+Điền phần còn thiếu vào dấu … dưới đâyViệc quản lý thông tin gồm các chính sách bảo mật thông tin, vấn đề phân công trách nhiệm bảo mật thông tin, nhận thức và huấn luyện về bảo mật thông tin chiếm tới … trong công tác bảo mật thông tin, chỉ có 20% còn lại là liên quan tới các vấn đề kỹ thuật bao gồm hệ thống công cụ, cấu trúc, …;;;Câu trả lời đúng là: 80%
+Virus thường được lây lan qua các phương tiện lưu trữ dữ liệu như USB, CD, máy nghe nhạc, … Bạn bè, đồng nghiệp của bạn cũng không nghĩ rằng họ đang chuyển những dữ liệu có chưa mã đọc cho bạn. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Ba thiết bị đầu vào phổ biến gồm những gì?;;;Câu trả lời đúng là: Bàn phím, chuột, Microphone.
+Trong MS Windows, để chọn các biểu tượng nằm cách nhau trên màn hình nền Desktop, dùng chuột nhắp chọn từng biểu tượng đồng thời nhấn giữ phím nào?;;;Câu trả lời đúng là: Ctrl
+Chọn phát biểu SAI về CPU trong các phát biểu sau:;;;Câu trả lời đúng là: Là hộp máy của máy vi tính, trong đó có bộ số học - lôgic và bộ nhớ.
+Tốc độ truyền dữ liệu tối đa trên lý thuyết của USB 2.0 là;;;Câu trả lời đúng là: 480 Mbps.
+Nếu một người dùng mở phần mềm Notepad và gõ một vài ký tự, sau đó nhấn chuột vào biểu tượng (x) ở góc phải phía trên của cửa sổ. Điều gì sẽ xảy ra?;;;Câu trả lời đúng là: Một hộp thoại sẽ bật ra.
+Chuột là thiết bị;;;Câu trả lời đúng là: Vào
+Trong lĩnh vực máy tính, chữ viết tắt “MB” thường được dùng để đo lường giá trị gì?;;;Câu trả lời đúng là: Khả năng lưu trữ.
+Trong MS Windows, Giả sử trong cùng một thư mục gốc (ổ đĩa C:), có hai thư mục X và Y. Khi thực hiện đổi tên thư mục X thành Y thì:;;;Câu trả lời đúng là: Máy tính thông báo thư mục Y đã tồn tại và hỏi có muốn gộp hai thư mục lại không.
+Một sinh viên đưa ra những điểm tương đồng giữa một máy vi tính (micro computer) với một máy tính bỏ túi (calculator). Phát biểu nào sau đây là SAI?;;;Câu trả lời đúng là: Đều có CPU.
+Muốn thay đổi các thông số của hệ thống máy tính sao cho dữ liệu ngày được hiển thị dưới dạng “Tuesday, July 30, 2015” phải khai báo tại thẻ lệnh Date của hộp thoại Customize Regional Options như sau:;;;Câu trả lời đúng là: dddd, MMMM dd, yyyy
+﻿Minh chưa từng gặp các vấn đề rắc rối với việc mất mát hay rò rỉ thông tin. Anh cho rằng việc trang bị kiến thức bảo mật thôn tin là không thực sự cần thiết. Đúng hay sai?;;;Câu trả lời đúng là: Sai
+Thông số "Core i3, socket 775" là của thiết bị nào?;;;Câu trả lời đúng là: CPU.
+Thiết bị nào sau đây là phương tiện lưu trữ quang học?;;;Câu trả lời đúng là: DVD-R
+Công cụ Windows Explorer dùng để?;;;Câu trả lời đúng là: Quản lý thư mục và tệp tin.
+Lợi ích của GUI (Graphic User Interface) là gì?;;;Câu trả lời đúng là: GUI cho phép người sử dụng máy tính bằng con chuột.
+RAM thuộc khối thiết bị:;;;Câu trả lời đúng là: Memory (bộ nhớ).
+Phát biểu nào dưới đây là SAI:;;;Câu trả lời đúng là: Có thể xóa một thư mục trên đĩa CD-R bằng cách chọn thư mục đó và nhấn nút Delete.
+Phím chức năng nào dùng để gọi trợ giúp trong Windows?;;;Câu trả lời đúng là: F1
+Một khách hàng muốn thực hiện một cuộc khảo sát quan e-mail, vì thế anh ta yêu cầu Lan lập một danh sách nhỏ bao gồm họ tên, địa chỉ và e-mail phục vụ cho cuộc khảo sát. Dù những thông tin này dễ dàng tra cứu qua danh bạ, danh thiếp, … nhưng Lan lo rằng những thông tin này cần được bảo mật riêng tư nên đã không đồng ý lập danh sách đó. Lan làm như thế có đúng không?;;;Câu trả lời đúng là: Đúng
+Thiết bị sử dụng pin để cung cấp điện liên tục cho hệ thống ngay cả khi điện lưới bị cắt được gọi là?;;;Câu trả lời đúng là: UPS
+Trong hệ điều hành Windows, để kiểm tra các thiết bị đã cài driver hay chưa vào:;;;Câu trả lời đúng là: Device Manager.
+Tốc độ đồng hồ của máy tính đuợc tính theo;;;Câu trả lời đúng là: hertz và các bội của nó.
+Loại máy tính nào thường đắt nhất;;;Câu trả lời đúng là: Máy chủ
+Virus tin học là gì?;;;Câu trả lời đúng là: Cả 3 phương án
+Để truyền tệp tin sử dụng dịch vụ nào?;;;Câu trả lời đúng là: FTP
+Hai người đã tạo được tài khoản thư miễn phí tại địa chỉ GMAIL.COM. Phát biểu nào dưới đây là SAI?;;;Câu trả lời đúng là: Mật khẩu mở hộp thư của hai người này phải khác nhau.
+Khi duyệt Web, sử dụng "Ctrl + thanh cuộn nút Chuột giữa cuộn lên" dùng để làm gì?;;;Câu trả lời đúng là: Phóng to nội dung
+Khi duyệt Web, để Mở một tab mới, dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Ctrl + T
+Khi duyệt Web, để Chuyển nhanh qua các tab theo thứ tự từ 1 đến 8 (từ trái sang phải), dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Ctrl + 1-8
+Trong các phát biểu dưới đây, phát biểu nào là SAI?;;;Câu trả lời đúng là: WWW chính là Internet vì WWW là trang thông tin toàn cầu (World Wide Web).
+Khi duyệt Web, để Mở một cửa sổ trình duyệt mới, dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Ctrl + N
+Khi duyệt Web, để Mở lại tab vừa đóng, dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Ctrl + Shift + T
+Khi duyệt Web, để Đánh dấu (Bookmark) trang web hiện tại, dùng tổ hợp phím nào:.;;;Câu trả lời đúng là: Ctrl + D
+﻿Các trang Web phải có một địa chỉ duy nhất trên Internet. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Khi duyệt Web, để Đóng cửa sổ trình duyệt hiện tại, dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Alt + F4
+Hãy điền vào chỗ chấm đáp án bạn cho là đúng.Internet là một hệ thống gồm các … được liên kết với nhau trên phạm vi toàn thế giới. Bất kỳ 2 mạng máy tính kết nối với nhau theo kiểu Internet có thể tiếp xác và trao đổi dữ liệu với nhau thông qua các hệ thống kênh truyền thông.;;;Câu trả lời đúng là: Mạng máy tính
+Khi duyệt Web, để tải lại trang web đang xem thực hiện nhấn phím nào?;;;Câu trả lời đúng là: F5
+Khi duyệt Web, để trở về Đầu trang web hiện tại thực hiện nhấn phím nào?;;;Câu trả lời đúng là: Home
+HTTP là gì?;;;Câu trả lời đúng là: Là giao thức truyền tải siêu văn bản.
+Khi duyệt Web, để Đóng tab hiện tại, dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Ctrl + F4
+Các bức thư điện tử cần được gửi đi không chỉ đến đúng người mà còn cần được gửi đến đúng lúc. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Khi duyệt Web, để trở về Cuối trang web hiện tại thực hiện nhấn phím nào?;;;Câu trả lời đúng là: End
+Để chuyển đổi 1 dặm ra km thì cần nhập vào hộp tìm kiếm thế nào?;;;Câu trả lời đúng là: 1 dặm -> km
+Khi duyệt Web, để Mở cửa sổ xóa dữ liệu (Clear Browsing History) duyệt web, dùng tổ hợp phím nào:.;;;Câu trả lời đúng là: Ctrl + Shift + Delete
+Bạn không sử dụng bí quyết nào sau đây khi viết một bức thư bán hàng hiệu quả:;;;Câu trả lời đúng là: Không nên đưa vào một đoạn tái bút T.B
+Khi duyệt Web, để tìm thông tin "Công chức" trên trang web “www.lamdong.gov.vn” vào google gõ từ khóa tìm kiếm nào để google trả về kết quả không có kết quả từ các trang web khác:;;;Câu trả lời đúng là: Công chức SITE:lamdong.gov.vn
+Người gửi luôn cần đề cao sự trung thực và tính tin cậy đối với những điều đã biết trong email. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Để xem lại lịch sử duyệt web, dùng tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + H
+Thuật ngữ LAN là viết tắt của cụm từ:;;;Câu trả lời đúng là: Local area network.
+Khi duyệt Web, sử dụng "Ctrl + 0" dùng để làm gì?;;;Câu trả lời đúng là: Trở về chế độ zoom mặc định ban đầu
+Trong khi duyệt Web, tổ hợp phím nào dùng để ra lệnh In trang hiện tại?;;;Câu trả lời đúng là: Ctrl + P
+Mỗi thiết bị khi tham gia vào một mạng máy tính nào đó cũng đều có:;;;Câu trả lời đúng là: Địa chỉ IP.
+Internet là:;;;Câu trả lời đúng là: Hệ thống mạng máy tính toàn cầu.
+Khi duyệt Web, để Đóng tab hiện tại, dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Ctrl + W
+Sử dụng dấu “~” trong tìm kiếm khi:;;;Câu trả lời đúng là: Muốn tìm được những kết quả có chứa từ đồng nghĩa với từ khóa
+Trong mạng Internet, dịch vụ nào hỗ trợ truyền tệp tin, dữ liệu có dung lượng lớn từ nơi này đến nơi khác?;;;Câu trả lời đúng là: FTP.
+Khi duyệt Web, để tải lại toàn bộ trang web đang xem, bỏ qua bộ nhớ cache, dùng tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + F5
+Những người có địa chỉ email trong Cc sẽ biết được thư đó gửi cho những ai. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Phát biểu nào dưới đây là SAI?;;;Câu trả lời đúng là: Internet là dịch vụ do công ty Internet tại Mỹ điều hành và thu phí.
+Khi duyệt Web, để Dừng việc tải trang web hiện tại thực hiện nhấn phím nào?;;;Câu trả lời đúng là: Esc
+Khi duyệt Web, để Mở trang chủ (Home), dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Alt + Home
+Tiền thân của mạng Internet ngày nay là?;;;Câu trả lời đúng là: ARPANET.
+Khi duyệt Web, để "Thoát khỏi/ Phóng to" Chế độ xem toàn màn hình trang web thực hiện nhấn phím nào?;;;Câu trả lời đúng là: F11
+Khi phát biểu về Internet, phát biểu nào dưới đây là SAI?;;;Câu trả lời đúng là: Dịch vụ thư điện tử (email) chỉ gửi các thông điệp, không thể gửi các tệp.
+Chọn đáp án sai;;;Câu trả lời đúng là: FTP (File Transfer Protocol): là phương thức truyền hình ảnh. Dịch vụ này cho phép truyền các tập tin từ máy tính này đến máy tính khác.
+Một địa chỉ Web: www.google.com thì cụm từ “.com” biểu thị:;;;Câu trả lời đúng là: Thường là đuôi tên miền của các trang web thương mại, dịch vụ
+Khi duyệt Web, để xem lại lịch sử Dowload, dùng tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + J
+Một người đang sử dụng dịch vụ thư điện tử miễn phí của GMAIL, địa chỉ nào dưới đây được viết ĐÚNG?;;;Câu trả lời đúng là: alpha2005@gmail.com
+Khi muốn gửi thư cho nhiều người, trong đó có 1 người mà bạn không muốn địa chỉ thư của họ xuất hiện trong danh sách những người nhận thư, bạn phải nhập địa chỉ thư của người đó vào:;;;Câu trả lời đúng là: Bcc
+Khi duyệt Web, sử dụng "Ctrl + thanh cuộn nút Chuột giữa cuộn xuống" dùng để làm gì?;;;Câu trả lời đúng là: Thu nhỏ nội dung
+Lợi thế của thư điện tử so với thư tín gửi qua đường bưu điện là:;;;Câu trả lời đúng là: Tốc độ chuyển thư nhanh.
+Trong các mô hình họat động của thư điện tử, mô hình Internet cho phép các máy chủ phục vụ thư kết nối vào/với Internet và chuyển thư cho nhau qua giao thức:;;;Câu trả lời đúng là: SMTP.
+Để mở nhanh lại tab vừa đóng trên trình duyệt, dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Ctrl + Shift + T
+URL (Uniform Resource Locator) dùng để chỉ định cách thức liên hệ với các tài liệu ở các máy trên mạng Internet. URL chứa:;;;Câu trả lời đúng là: Giao thức ứng dụng, địa chỉ máy trên mạng, đường dẫn của tệp
+Hãy chọn các câu có ý nghĩa phù hợp với nhau để hiểu rõ hơn về nguyên tắc viết một bức thư hiệu quả trong kinh doanh như sau:;;;Câu trả lời đúng là: Tất cả các đáp án
+Suy nghĩ trước khi viết, đọc đi đọc lại trước khi gửi email, đó là điều được nhắc nhở đối với các nhà kinh doanh. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+﻿Khi duyệt Web, để Mở địa chỉ trang web vừa nhập trong một tab mới, dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Alt + Enter
+Để soạn thảo được những bức thư trả lời khách hàng có tác dụng tích cực đúng như bạn mong muốn, bạn phải tự đặt mình vào trong một trạng thái tâm lý thích hợp-bạn đang viết thư để giải quyết khiếu nại, trả lời thắc mắc, hay cảm ơn họ vì đã mua sản phẩm/dịch vụ của bạn. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Để chuyển đổi 1 bảng Anh ra VND thì cần nhập vào hộp tìm kiếm như thế nào?;;;Câu trả lời đúng là: 1 bảng Anh = ? VND
+Trong khi duyệt Web, tổ hợp phím nào dùng để ra lệnh Lưu trang hiện tại vào máy tính?;;;Câu trả lời đúng là: Ctrl + S
+Khi biết một bức thư trong kinh doanh bạn cần đáp ứng yêu cầu gì:;;;Câu trả lời đúng là: Gửi đúng thời điểm
+Dịch vụ Internet được cung cấp vào Việt Nam năm nào?;;;Câu trả lời đúng là: 1997.
+Để chuyển đổi 1 dặm ra km thì cần nhập vào hộp tìm kiếm thế nào?;;;Câu trả lời đúng là: 1 dặm = ? km
+Ưu điểm rõ ràng khi sử dụng hồ sơ điện tử, như bảng các câu hỏi trực tuyến chẳng hạn, là gì?;;;Câu trả lời đúng là: Việc tiêu thụ giấy giảm.
+Cookie là gì?;;;Câu trả lời đúng là: Là các tệp tin văn bản nhỏ lưu trữ thông tin về quá trình truy xuất Internet của người dùng hoặc các thông tin cá nhân mà người dùng đã từng khai báo.
+Khi duyệt Web, để Chuyển nhanh qua tab cuối cùng, dùng tổ hợp phím nào:;;;Câu trả lời đúng là: Ctrl + 9
+Trong mạng Internet, để tìm kiếm nhanh trang web nói về cách thức nuôi cá Basa:;;;Câu trả lời đúng là: Chúng ta mở trang web địa chỉ www.google.com.
+Máy tính kết nối và cung cấp các dịch vụ cho các máy PC khác gọi là:;;;Câu trả lời đúng là: Server (máy chủ).
+Tường lửa là gì?;;;Câu trả lời đúng là: Một hệ thống bao gồm cả phần cứng và phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet.
+Trang web tĩnh là trang web:;;;Câu trả lời đúng là: Có nội dung cố định, không thể tùy biến theo yêu cầu từ phía máy khách (client).
+Hãy điền một cụm từ thích hợp vào chỗ trống để hoàn thành câu sau:“Các …. kèm theo sẽ rất có ích nếu nó thú vị và gây được ấn tượng, nội dung truyền tải cần có thông tin.”;;;Câu trả lời đúng là: hình ảnh minh họa
+Bạn không sử dụng bí quyết nào sau đây khi viết một bức thư bán hàng hiệu quả:;;;Câu trả lời đúng là: Viết trên quan điểm, suy nghĩ của mình
+Sử dụng dấu “+” khi tìm kiếm kết quả thu được sẽ:;;;Câu trả lời đúng là: Chữa những từ sau dấu “+”
+Các trang Web phải có một địa chỉ duy nhất trên Internet. Nếu không có địa chỉ duy nhất thì không thể định vị rõ vị trí của Website đó. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Để chuyển đổi 1 bảng Anh ra VND thì cần nhập vào hộp tìm kiếm như thế nào?;;;The correct answers are: 1 bảng Anh -> VND, Cả 3 đáp án
+Trong khi soạn thảo email nếu muốn gởi kèm file nhấn vào nút:;;;Câu trả lời đúng là: attach.
+Chọn đáp án sai;;;Câu trả lời đúng là: Dịch vụ Newgroup cho phép cá nhân có thể lập ra chủ đề về lĩnh vực nào đó. Chẳng hạn như: kinh tế, giáo dục, ….
+Định nghĩa nào chính xác nhất về mạng Internet về phương diện tin học?;;;Câu trả lời đúng là: Là mạng rộng có quy mô toàn cầu hoạt động dựa trên giao thức TCP/IP.
+Phát biểu nào dưới đây về thư điện tử là SAI?;;;Câu trả lời đúng là: Thư điện tử luôn có độ tin cậy, an toàn tuyệt đối.
+Việc đặt bố cục bức thư trong một ngữ cảnh cụ thể như vậy sẽ hướng bạn đến việc sử dụng ngôn ngữ và giọng điệu phù hợp. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Với thư điện tử, phát biểu nào sau đây là SAI?;;;Câu trả lời đúng là: Hai người có thể có địa chỉ thư giống nhau, ví dụ hoahong@yahoo.com.
+Email là viết tắt của:;;;Câu trả lời đúng là: Electronic Mail.
+Thuật ngữ chỉ việc mua và bán hàng qua mạng Internet là gì?;;;Câu trả lời đúng là: Thương mại điện tử (E-commerce).
+Trong MS Word 2016, để Chèn ký tự đặc biệt (Symbol) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Symbol.
+Trong MS Word 2016, muốn Thay đổi khổ giấy (Paper). Ví dụ: khổ giấy A4, Letter,... cho trang in, thực hiện:;;;Câu trả lời đúng là: Vào menu Layout, chọn Page Setup, sau đó chọn tab là Paper
+Hãy chọn đáp án có ý nghĩa phù hợp để điền vào chỗ “……”… là bản sao đầy đủ, chính xác nội dung của văn bản và được trình bày theo thể thức nhất định. Bản sao y bản chính phải được thực hiện từ bản chính.;;;Câu trả lời đúng là: Bản sao y bản chính
+Trong MS Word, để có thể đánh được Chỉ số trên cho số 2 của từ X2 cần thực hiện bôi đen số 2, sau đó nhấn tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + Shift + =
+Trong MS Word,  khi đã chọn đoạn văn bản và muốn đoạn đó có định dạng gạch chân với nét đôi thực hiện nhấn tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + Shift + D.
+Trong MS Word 2016, để Chèn một biểu thức tính toán (Equation) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Equation.
+Trong MS Word 2016, để định dạng canh Trái (Left) cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word 2016, để Chèn số trang ở lề dưới của tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Page Number, chọn Bottom of Page.
+Chọn đáp án saiCác phương án nào dưới đây thuộc bước chuẩn bị của quy trình soạn thảo và ban hành văn bản:;;;Câu trả lời đúng là: Xác định chất liệu in văn bản
+Hãy chọn đáp án có ý nghĩa phù hợp để điền vào chỗ “……”…… đưa ra luận chứng cùng có giá trị như nhau trong việc thể hiện chủ đề đoạn văn. Đây là đọn có câu chủ đề được hiểu ngầm, không hiện ra trong văn bản.;;;Câu trả lời đúng là: Phương pháp song hành
+Trong MS Word 2016, để định dạng cỡ chữ, dạng chữ, in béo, in nghiêng, kiểu chữ, màu chữ... cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home | Font
+Trong MS Word 2016, để Chèn Header & Footer, thực hiện:;;;Câu trả lời đúng là: Vào menu Insert
+Trong MS Word 2016, để Lưu một tệp trước đó với một Tên khác, ta có thể;;;Câu trả lời đúng là: Vào menu File, chọn Save As
+Câu hỏi tình huống:Hoa là sinh viên tốt nghiệp loại xuất sắc của một trường đại học danh tiếng ở Hà Nội. Sau khi tốt nghiệp, Hoa được nhận thẳng vào làm ở một doanh nghiệp về kinh doanh sắt thép. Công việc đầu tiên mà trưởng phòng kinh doanh giao cho Hoa là làm một báo cáo về tình hình sản xuất kinh doanh của công ty trong 6 tháng đầu năm. Hoa đã làm bản báo cáo với những nội dung như: Nhận xét về số người đi làm muộn của công ty trong tháng, số ngày nghỉ ốm của công nhân, số lương trung bình mà công nhân nhận được, số người nghỉ hưu và được tuyển dụng mới vào trong 6 tháng đầu năm.Với vai trò là cấp trên của Hoa khi nhận được bản báo cáo này, bạn đánh giá nội dung báo cáo của Hoa như thế nào?;;;Câu trả lời đúng là: Chưa đúng cấu trúc, nội dung của báo cáo công tác sản xuất kinh doanh được giao
+Trong MS Word 2016, để Tạo mới tệp văn bản thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn New
+Yêu cầu khi soạn thảo một biên bản là:;;;Câu trả lời đúng là: Tất cả các phương án còn lại
+Hãy chọn đáp án có ý nghĩa phù hợp để điền vào chỗ “……”…… nêu những văn bản quy phạm pháp luật làm cơ sở pháp lý cho hợp đồng và những căn cứ thực tế trao đổi giữa các chủ thể để thiết lập giao kết.;;;Câu trả lời đúng là: Phần căn cứ thực tế và pháp lý
+Trong MS Word 2016, sau khi bôi đen toàn bộ bảng, nếu nhấn phím Delete thì điều gì xảy ra?;;;Câu trả lời đúng là: Xóa toàn bộ nội dung trong bảng, không xóa bảng.
+Trong MS Word 2016, khi muốn thiết lập để trên thước đo có đơn vị là Centimeters thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Option, chọn mục Avandced để thay đổi
+Trong MS Word 2016, để Chèn một sơ đồ tổ chức (SmartArt) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn SmartArt.
+Trong MS Word, khi đang soạn thảo văn bản để xác định tổng số trang của văn bản hiện hành quan sát ở:;;;Câu trả lời đúng là: Thanh trạng thái.
+Trong MS Word, muốn sao chép định dạng của một dòng văn bản nào đó thì bôi đen dòng đó, sau đó:;;;Câu trả lời đúng là: Nhấn chuột vào biểu tượng Format Painter trên thanh công cụ.
+Trong MS Word, để Tìm kiếm và Thay thế từ đó bằng từ khác trong văn bản dùng tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + H
+Trong MS Word, để viết hoa các ký tự đầu các từ của đoạn văn bản đã chọn, dùng tổ hợp phím:;;;Câu trả lời đúng là: Shift + F3
+Trong MS Word 2016, khi muốn Thay đổi văn bản có khổ giấy theo hướng Dọc thì thực hiện:;;;Câu trả lời đúng là: Vào menu Layout, chọn Oriention và chọn Portraint
+Trong MS Word 2016, để định dạng canh Phải (Right) cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word 2016, để In tệp thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Print
+Trong MS Word, khi một từ không có trong từ điển mặc định, nó sẽ được biểu thị thế nào trên màn hình?;;;Câu trả lời đúng là: Có đường lượn sóng màu đỏ phía dưới.
+Trong MS Word, để định dạng tăng khoảng cách giữa các dòng trong một đoạn văn bản lên gấp đôi (Double), sử dụng tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + 2
+Trong MS Word 2016, để định dạng kiểu chữ Nghiêng (Italic) cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Điền từ thích hợp vào chỗ “……”“Kỹ thuật soạn thảo văn bản là những quy tắc, những yêu cầu trong quá trình soạn thảo văn bản một cách liên tục từ khi …… đến khi soạn thảo và chuyển văn bản đến nơi thi hành.”;;;Câu trả lời đúng là: chuẩn bị soạn thảo
+Trong MS Word 2016, để định dạng Màu chữ (Font Color) cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Hợp đồng là sự thỏa thuận giữa hai hay nhiều bên bằng văn bản trong đó hai bên ký với nhau lập một qun hệ pháp lý về quyền lợi hay nghĩa vụ. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong MS Word 2016, muốn Thay đổi Paragraph thực hiện:;;;Câu trả lời đúng là: Vào menu Layout.
+Hãy chọn đáp án có ý nghĩa phù hợp để điền vào chỗ “……”… là bản sao đầy đủ, chính xác nội dung của văn bản, được thực hiện từ bản sao y bản chính và trình bày theo thể thức nhất định.;;;Câu trả lời đúng là: Bản sao lục
+Trong MS Word, để lưu một tệp đang được lưu trước đó với một Tên khác, thực hiện nhấn phím:;;;Câu trả lời đúng là: F12
+Trong MS Word, sau khi sử dụng chức năng Undo (Ctrl + Z), để quay lại bước trước khi nhấn Undo dùng tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + Y
+Trong MS Word, để chuyển đoạn văn bản được chọn từ chữ thường sang các từ in hoa, dùng tổ hợp phím:;;;Câu trả lời đúng là: Shift + F3 (2 lần)
+Cấu trúc văn bản hành chính gồm hai phần: phần mở đầu và phần kết thúc. Đúng hay sai?;;;Câu trả lời đúng là: Sai
+Chọn đáp án đúngVăn bản hành chính thường được sử dụng:;;;Câu trả lời đúng là: Tính từ
+Trong MS Word, tổ hợp phím được dùng để Đóng tài liệu đang mở?;;;Câu trả lời đúng là: Alt + F4
+Chọn đáp án đúngVăn bản hành chính thường không sử dụng:;;;Câu trả lời đúng là: Tất cả các phương án còn lại
+Trong MS Word, muốn chuyển đổi giữa hai chế độ gõ là chế độ gõ chèn và chế độ gõ đè, thực hiện bấm phím nào trên bàn phím:;;;Câu trả lời đúng là: Insert
+Trong Ms Word, muốn ẩn hoặc hiện thanh công cụ Ribbon, người sử dụng dùng tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + F1
+Trong MS Word, muốn di chuyển từ 1 ô này sang ô kế tiếp về bên phải của một bảng (Table) ta bấm phím:;;;Câu trả lời đúng là: Tab
+Trong MS Word 2016, để định dạng Chỉ số Dưới (Subscript) thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word 2016, để Chèn hình vẽ (Shapes) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Shapes.
+Trong MS Word, đang gõ dòng chữ "Cộng hòa xã hội chủ nghĩa Việt Nam" bằng font chữ Times New Roman, Unicode, khẳng định nào sau đây là ĐÚNG?;;;Câu trả lời đúng là: Để hiển thị đúng bằng font .Vn times, bạn cần sử dụng một phần mềm, ví dụ như Vietkey Office hoặc Unikey để chuyển đổi mã.
+Trong MS Word, phím nào để xoá ký tự đứng Sau con trỏ?;;;Câu trả lời đúng là: Delete.
+Trong MS Word, tổ hợp phím được dùng để chèn trường SỐ TRANG?;;;Câu trả lời đúng là: Alt + Shift + P
+Trong MS Word, khi con trỏ văn bản ở ô cuối cùng của bảng. Nếu muốn thêm dòng mới cho bảng, sử dụng phím nào dưới đây.;;;Câu trả lời đúng là: Tab
+Trong MS Word 2016, để Chèn ngày và giờ (Date & Time) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Date & Time.
+Trong MS Word 2016, để định dạng kiểu chữ Đậm (Bold) cho văn bản,  thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word 2016, để định dạng Màu nền (Text Highlight Color) cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word, để thuận tiện hơn trong khi định dạng (Ví dụ: thay đổi kích thước lề trái, lề phải, …), có thể khai báo đơn vị đo:;;;Câu trả lời đúng là: Centimeters.
+Trong MS Word 2016, để phóng to hoặc thu nhỏ (Zoom) nội dung trong văn bản, thực hiện;;;Câu trả lời đúng là: Vào menu View, chọn Zoom
+Trong MS Word 2016, để định dạng Chỉ số Trên (Superscript) thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word, tổ hợp phím được dùng để Đóng tài liệu đang mở?;;;Câu trả lời đúng là: Ctrl + F4
+Trong MS Word 2016, để Chèn chú thích (Comment) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Comment.
+Phát biểu nào sau đây là SAI?;;;Câu trả lời đúng là: MS Word được tích hợp vào Hệ điều hành Windows nên bạn không cần phải cài đặt phần mềm này.
+Trong MS Word, để chèn dòng trống giữa dòng 1 và dòng 2, sau khi đã đặt con trỏ vào đầu dòng 2, phải sử dụng phím:;;;Câu trả lời đúng là: ENTER
+Trong MS Word 2016, để định dạng Phông chữ (Font) cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word, để Xóa định dạng lùi vào dòng thứ 2 trở đi của đoạn văn bản. Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + Shift + T
+Hãy chọn đáp án sai.Phần kết luận một báo cáo có thể nếu:;;;Câu trả lời đúng là: Lời hứa hẹn của bản thân
+﻿Văn bản hành chính được sử dụng với nghĩa là văn bản dùng làm công cụ quản lý và điều hành của các cơ quan dưới dạng ngôn ngữ viết, theo phong cách ngôn ngữ báo chí. Đúng hay sai?;;;Câu trả lời đúng là: Sai
+Trong MS Word 2016, để Chèn một biểu đồ (Chart) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Chart.
+Trong MS Word, nhấn tổ hợp phím nào sẽ thực hiện Sao chép (Copy) văn bản vào bộ nhớ đếm?;;;Câu trả lời đúng là: Ctrl + C
+Trong MS Word, để định dạng khoảng cách giữa hai dòng trong đoạn là 1,5 Lines, sử dụng tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + 5
+Trong MS Word, để đi đến vị trí bạn vừa chỉnh sửa, dùng tổ hợp phím:;;;Câu trả lời đúng là: Shift + F5
+Trong MS Word, khi đã chọn đoạn văn bản và muốn đoạn đó có định dạng gạch chân các từ nhưng không gạch chân khoảng trống thực hiện nhấn tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + Shift + W.
+Chọn đáp án đúngVăn bản hành chính thường được sử dụng:;;;Câu trả lời đúng là: Từ láy
+Trong MS Word, khi đã chọn đoạn văn bản và muốn đoạn đó có định dạng canh phải (Right). Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + R
+Hãy chọn đáp án thích hợp điền vào chỗ trống “……” để hoàn thành câu sau:“Tính …… của từ ngữ là yêu cầu nghiêm ngặt đặt ra với văn bản hành chính, vì sự mơ hồ về từ ngữ sẽ gây ra những hậu quả nghiêm trọng không lường hết được trong quá trình thực hiện các văn bản hành chính.;;;Câu trả lời đúng là: chính xác
+Trong MS Word 2016, để định dạng canh Bằng hai bên (Justify) cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+﻿Trong MS Word 2016, để Đóng tệp thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Close
+Trong MS Word 2016, để định dạng kiểu chữ Gạch chân (Underline) cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word, tổ hợp phím được dùng để chèn trường NGÀY THÁNG?;;;Câu trả lời đúng là: Alt + Shift + D
+Trong MS Word 2016, để Lưu tệp thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Save
+Trong MS Word, để Xóa định dạng lùi vào đầu dòng đoạn văn bản từ bên trái. Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + Shift + M
+Hãy chọn đáp án có ý nghĩa phù hợp để điền vào chỗ “……”…… đưa ra nguyên lý làm tiền đề, sau đó phát triển, giải thích để làm rõ vấn đề ấy. Trong đoạn diễn dịch, câu chủ đề nằm ở đầu đoạn.;;;Câu trả lời đúng là: Phương pháp diễn dịch
+Trong MS Word 2016, hộp định dạng kiểu dáng (Styles) nằm trên menu nào?;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word, nhấn tổ hợp phím nào sẽ thực hiện Dán (Paste) đoạn văn bản từ bộ nhớ đệm vào sau vị trí con trỏ?;;;Câu trả lời đúng là: Ctrl + V
+Trong MS Word 2016, muốn Thay đổi lề (Margins). Ví dụ: Thay đổi lề trái, phải, trên, dưới, theo mẫu cho trang in, thực hiện:;;;Câu trả lời đúng là: Vào menu Layout, chọn Margins và chọn theo mẫu tương ứng
+Trong MS Word 2016, để Xóa một chú thích (Delete Comment) trong văn bản. Chọn comment cần xóa và thực hiện:;;;Câu trả lời đúng là: Vào menu Review, chọn Delete
+Trong MS Word 2016, để Hiển thị thước (Ruler) trong tài liệu, thực hiện;;;Câu trả lời đúng là: Vào menu View, chọn Zoom
+Trong MS Word 2016, muốn Thay đổi lề (Margins). Ví dụ: Thay đổi lề trái, phải, trên, dưới, hướng giấy,… cho trang in, thực hiện:;;;Câu trả lời đúng là: Vào menu Layout, chọn Page Setup, sau đó chọn tab là Margins
+Trong MS Word, phát biểu nào sau đây là SAI?;;;Câu trả lời đúng là: Chỉ được phép mở một văn bản trong phiên làm việc.
+Trong MS Word, để thực hiện Ngắt trang cho văn bản để sang 1 trang mới sử dụng tổ hợp phím gì?;;;Câu trả lời đúng là: Ctrl + Enter
+Trong MS Word, phát biểu nào dưới đây là SAI khi gõ tiếng Việt theo kiểu Telex:;;;Câu trả lời đúng là: gõ phím a ba lần tạo được chữ â.
+Trong MS Word 2016, hỗ trợ Lưu văn bản đang soạn theo các định dạng nào?;;;Câu trả lời đúng là: *.docx, *.dot, *.html, *.txt
+Trong MS Word 2016, để Chèn hộp văn bản (Textbox) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Text Box.
+Để đảm bảo văn bản được ban hành đúng và có chất lượng cần đáp ứng yêu cầu:;;;Câu trả lời đúng là: Tất cả các đáp án
+Trong MS Word, tiện ích trộn thư có thể sử dụng được trong trường hợp nào sau đây?;;;Câu trả lời đúng là: Muốn tạo ra ra giấy mời, giấy báo, thư từ có cùng một nội dung nhưng gửi cho nhiều người khác nhau, ở các địa chỉ khác nhau.
+Hãy chọn đáp án có ý nghĩa phù hợp để điền vào chỗ “……”…… nêu từng bên giao kết, phân định vị trí giao kết. Nêu những thông tin liên quan đến chủ thể giao kết (địa chỉ, chức vụ, tài khoản chính thức, mã số thuế).;;;Câu trả lời đúng là: Phần xác lập chủ thể giao kết
+Trong MS Word 2016, để Chèn chữ nghệ thuật (WordArt) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn WordArt.
+Văn bản hành chính không sử dụng phong cách ngôn ngữ báo chí mà sử dụng phong cách hành chính – công vụ. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong MS Word, tổ hợp phím được dùng để mở hộp thoại định dạng Font chữ?;;;Câu trả lời đúng là: Ctrl + D
+Hãy chọn đáp án có ý nghĩa phù hợp để điền vào chỗ “……”…… đưa ra những luận chứng bằng sự việc hoặc bằng số liệu, sau đó phân tích rồi khái quát, tổng hợp lại để kết luận. Với đoạn quy nạp, câu chủ đề thường nằm cuối đoạn.;;;Câu trả lời đúng là: Phương pháp quy nạp
+Trong MS Word 2016, để Chèn hình ảnh (Pictures) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Pictures.
+Trong MS Word 2016, khi muốn Tệp được lưu vào thư mục mặc định. Thao tác nào sau đây để thiết lập thư mục lưu trữ mặc định;;;Câu trả lời đúng là: Vào menu File | Option | Save | Default local file location…
+Trong MS Word, tổ hợp phím nào để Xem văn bản trước khi in?;;;Câu trả lời đúng là: Ctrl + F2
+Trong MS Word 2016, để định dạng đầu mỗi đoạn dạng Bullets cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về Cuối văn bản?;;;Câu trả lời đúng là: Ctrl + End
+Trong MS Word, nếu kết thúc 1 đoạn (Paragraph) và muốn sang 1 đoạn mới. Nhấn phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Enter.
+Quan hệ hợp đồng được xác định bởi quyền và nghĩa vụ của hai bên, được đề cập trong văn bản hợp đồng. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong MS Word, để Định dạng lùi vào từ dòng thứ 2 trở đi của đoạn văn bản. Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + T
+Trong MS Word 2016, để định dạng đầu mỗi đoạn dạng Numbering cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word 2016, để Hiển thị chế độ đọc (Reading Mode) tài liệu thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu View, chọn Reading Mode.
+Trong MS Word 2016, để Chèn tiêu đề phía dưới (Footer) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Footer.
+Trong MS Word 2016, để Hiển thị chế độ xem trước khi in (Print Layout) thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu View, chọn Print Layout.
+Trong MS Word, muốn Phục hồi (Undo) thao tác vừa thực hiện thì bấm tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + Z
+Trong MS Word 2016, để định dạng canh trái, phải, giữa... cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home | Paragraph
+Trong MS Word, tổ hợp phím được dùng để Giảm cỡ phông xuống 1 điểm?;;;Câu trả lời đúng là: Ctrl + [
+Hãy chọn đáp án có ý nghĩa phù hợp để điền vào chỗ “……”…… được thể hiện thông qua các điều khoản;;;Câu trả lời đúng là: Phần nội dung thể hiện giao kết
+Hãy chọn đáp án thích hợp điền vào chỗ trống “……” để hoàn thành câu sau:Công văn chỉ sử dụng vào …. của các cơ quan tổ chức doanh nghiệp, không nên dùng ngôn từ mang màu sắc tình cảm cá nhân hoặc dùng công văn để trao đổi việc riêng giữa các cá nhân.;;;Câu trả lời đúng là: việc công vụ
+Trong MS Word 2016, Trong một Tệp văn bản khi soạn thảo văn bản tiếng Việt, xuất hiện đường răng cưa nằm dưới dòng văn bản, để xử lý không còn hiện tượng đó, phải thực hiện lần lượt các thao tác:;;;Câu trả lời đúng là: Vào menu File, chọn Option, tiếp theo chọn Proofing. Thực hiện bỏ 2 lựa chọn: Check spelling as you type và Check grammar with spelling
+Văn bản hành chính không sử dụng các biện pháp tu từ để đảm bảo tính chất thể chế nghiêm chỉnh của giất tờ, văn kiện hành chính. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong MS Word, tổ hợp phím nào sẽ dùng để bật hộp thoại Tìm kiếm?;;;Câu trả lời đúng là: Ctrl + F
+Trong MS Word, khi đã chọn đoạn văn bản và muốn đoạn đó có định dạng canh bằng hai bên (Justified). Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + J
+Trong MS Word, nhấn tổ hợp phím nào sẽ thực hiện Cắt (Cut) văn bản vào bộ nhớ đếm?;;;Câu trả lời đúng là: Ctrl + X
+Loại câu nào mà văn bản hành chính không sử dụng:;;;Câu trả lời đúng là: Câu hỏi tu từ
+Trong MS Word, khi đã bôi đen dòng chữ TRƯỜNG ĐẠI HỌC CÔNG NGHỆ và muốn dòng chữ này có định dạng kiểu Gạch chân. Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + U
+Trong MS Word 2016, khi muốn Thay đổi văn bản có khổ giấy theo hướng Ngang thì thực hiện:;;;Câu trả lời đúng là: Vào menu Layout, chọn Oriention và chọn Landscape
+Trong MS Word, trong khi soạn thảo văn bản, nếu nhấn phím số 1 khi có một khối văn bản Đang được chọn thì:;;;Câu trả lời đúng là: Khối văn bản đó biến mất và thay vào đó là số 1.
+Trong MS Word, Khi đang gõ văn bản và dưới chân những ký tự đang gõ xuất hiện các dấu xanh đỏ;;;Câu trả lời đúng là: Dấu xanh là do bạn gõ sai quy tắc ngữ pháp, dấu đỏ là do bạn gõ sai từ tiếng Anh
+Trong MS Word, khi đã bôi đen dòng chữ TRƯỜNG ĐẠI HỌC CÔNG NGHỆ và muốn dòng chữ này có định dạng kiểu chữ  Đậm. Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + B
+Trong MS Word, phím nào để xoá ký tự đứng Trước con trỏ?;;;Câu trả lời đúng là: Backspace.
+Trong MS Word 2016, trong khi Định dạng văn bản muốn Tim kiếm và Thay thế chữ “VN” thành “Việt Nam” thì;;;Câu trả lời đúng là: ào menu Home, chọn Replace.
+Trong MS Word, chương trình nào sau đây cho phép gõ được tiếng Việt?;;;Câu trả lời đúng là: Unikey hoặc Vietkey.
+Trong MS Word, tổ hợp phím được dùng để Đóng tài liệu đang mở?;;;Câu trả lời đúng là: Ctrl + W
+Văn bản hình chính sử dụng phong cách hành chính – công vụ. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong MS Word, khi đã chọn đoạn văn bản và muốn đoạn đó có định dạng canh giữa (Centered). Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + E
+Trong MS Word, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về Đầu tài liệu?;;;Câu trả lời đúng là: Ctrl + Home
+Trong MS Word 2016, hộp định dạng Paragraph nằm trên menu nào?;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word 2016, để Thêm một chú thích (New Comment) trong văn bản, thực hiện;;;Câu trả lời đúng là: Vào menu Review, chọn New Comment
+Trong MS Word, tổ hợp phím được dùng để Mở (Open) văn bản?;;;Câu trả lời đúng là: Ctrl + O
+Trong MS Word, để chuyển đoạn văn bản được chọn từ chữ thường sang chữ in hoa, dùng tổ hợp phím:;;;Câu trả lời đúng là: Shift + F3 (2 lần)
+Trong MS Word 2016, để Chèn tiêu đề phía trên (Header) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Header.
+Trong MS Word 2016, muốn Thay đổi nội dung dạng cột (Columns) cho văn bản (dạng thường thấy tên các trang báo và tạp chí), thực hiện:;;;Câu trả lời đúng là: Vào menu Layout, chọn Columns và chọn dạng cột tương ứng
+Trong MS Word 2016, phát biểu nào sau đây là ĐÚNG?;;;Câu trả lời đúng là: Tệp được tạo ra bởi MS Word 2016 khi lưu sẽ có đuôi mặc định là DOCX.
+Trong MS Word 2016, trong khi Định dạng văn bản muốn Tìm kiếm chữ “VN” thì;;;Câu trả lời đúng là: ào menu Home, chọn Find.
+Trong MS Word, để định dạng khoảng cách giữa các dòng trong một đoạn văn bản giãn dòng đơn (Single), sử dụng tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + 1
+Trong MS Word, tổ hợp phím được dùng để chèn trường THỜI GIAN?;;;Câu trả lời đúng là: Alt + Shift + T
+Trong MS Word, trong khi soạn thảo văn bản, nếu muốn thêm Ký hiệu bản quyền thì dùng tổ hợp phím:;;;Câu trả lời đúng là: Alt + Ctrl + C.
+Trong MS Word, khi đã bôi đen dòng chữ TRƯỜNG ĐẠI HỌC CÔNG NGHỆ và muốn dòng chữ này có định dạng kiểu chữ Nghiêng. Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + I
+﻿Trong MS Word 2016, để cài Mật khẩu cho tệp hiện thời:;;;Câu trả lời đúng là: Vào menu File | Info | Protect Document | Encrypt with Password
+Trong MS Word, để có thể đánh được Chỉ số dưới cho số 2 của từ H2O cần thực hiện bôi đen số 2, sau đó nhấn tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + =
+Trong MS Word 2016, để định dạng Cỡ chữ (Size) cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word 2016, muốn Thay đổi Page Setup thực hiện:;;;Câu trả lời đúng là: Vào menu Layout.
+Trong MS Word, để Xóa định dạng (Paragraph) đoạn văn bản. Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + Q
+Trong MS Word 2016, để Chèn liên kết (Hyperlink) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Hyperlink.
+Cấu trúc văn bản hành chính phải đảm bảo hoàn chỉnh về mặt nội dung và trọn vẹn về hình thức. Thông thường gồm ba phần: phần mở đầu, phần trung tâm và phần kết thúc. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong MS Word 2016, để Chèn số trang ở lề trên của tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Page Number, chọn Top of Page.
+Chọn đáp án saiCác phương án nào dưới đây thuộc bước chuẩn bị của quy trình soạn thảo và ban hành văn bản:;;;Câu trả lời đúng là: Xác định số trang của văn bản
+Trong MS Word, tổ hợp phím được dùng để Tạo mới (New) văn bản?;;;Câu trả lời đúng là: Ctrl + N
+Trong MS Word, để chọn Toàn bộ nội dung văn bản thì nhấn tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + A
+Trong MS Word, khi đã chọn đoạn văn bản và muốn đoạn đó có định dạng canh trái (Left). Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + L
+Trong MS Word, tổ hợp phím được dùng để Tăng cỡ phông lên 1 điểm?;;;Câu trả lời đúng là: Ctrl + ]
+Trong MS Word, để chọn khối từ con trỏ về Cuối tài liệu nhấn:;;;Câu trả lời đúng là: Ctrl + Shift + End
+Trong MS Word 2016, muốn Thay đổi hướng giấy (Oriention). Ví dụ: hướng Ngang hoặc hướng Dọc cho trang in, thực hiện:;;;Câu trả lời đúng là: Vào menu Layout, chọn Oriention để chọn hướng giấy tương ứng
+Trong MS Word 2016, để Chèn ngắt trang văn bản thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Page Break.
+Trong MS Word, tổ hợp phím được dùng để Lưu (Save) văn bản?;;;Câu trả lời đúng là: Ctrl + S
+Hãy chọn đáp án có ý nghĩa phù hợp để điền vào chỗ “……”…… là bản sao một phần nội dung của văn bản và được trình bày theo thể thức quy định. Bản trích sao phải được thực hiện từ văn bản chính.;;;Câu trả lời đúng là: Bản trích sao
+Trong MS Word, khi thực hiện Ctrl + PageUp hoặc Ctrl + Page Down, con trỏ sẽ di chuyển:;;;Câu trả lời đúng là: Lên xuống 1 trang văn bản.
+Trong MS Word, tổ hợp phím nào dùng để ra lệnh in văn bản?;;;Câu trả lời đúng là: Ctrl + P
+Trong MS Word 2016, để Chèn bảng (Table) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Table.
+Trong MS Word 2016, hộp định dạng Font nằm trên menu nào?;;;Câu trả lời đúng là: Vào menu Home.
+Khi thao tác trong MS Word 2016, thông báo "Do you want to save changes to..." xuất hiện khi nào?;;;Câu trả lời đúng là: Khi đóng văn bản nhưng văn bản chưa được lưu
+Trong MS Word 2016, để định dạng canh Giữa (Center) cho văn bản, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Word 2016, để Mở một tệp đã tồn tại trên đĩa, thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Open
+Nếu bật bộ gõ tiếng Việt (Vietkey hoặc Unikey) để soạn thảo, đồng thời lựa chọn kiểu gõ Telex và bảng mã Unicode. Các nhóm font nào dưới đây có thể hiển thị rõ tiếng Việt?;;;Câu trả lời đúng là: Tahoma, Verdana, Times new Roman.
+Trong MS Word, để Định dạng lùi vào đầu dòng đoạn văn bản từ bên trái. Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + M
+Trong MS Word 2016, muốn Thay cỡ giấy (Size). Ví dụ: cỡ giấy A4, Letter,... cho trang in, thực hiện:;;;Câu trả lời đúng là: Vào menu Layout, chọn Size
+Trong MS Word 2016, để Chèn chữ lớn ở đầu dòng (Drop Cap) trong đoạn thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Drop Cap.
+Trong MS Word, để chọn khối từ con trỏ về Đầu tài liệu nhấn:;;;Câu trả lời đúng là: Ctrl + Shift + Home
+Trong MS Excel, hàm nào sau đây lấy giá trị Tuyệt đối của một số?;;;Câu trả lời đúng là: Abs
+Trong MS Excel 2016, để Chèn liên kết (Hyperlink) vào bảng tính thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Hyperlink.
+Trong MS Excel, nếu thí sinh đạt từ 5 điểm trở lên, thí sinh đó được xếp loại Đạt, ngược lại nếu dưới 5 điểm, thì xếp loại Không đạt. Theo bạn, công thức nào dưới đây thể hiện ĐÚNG điều này (Giả sử ô G6 đang chứa điểm thi)?;;;Câu trả lời đúng là: =IF(G6<5,"Không đạt","Đạt")
+Trong MS Excel, biểu thức =AVERAGE(4,6,7,8) trả lại kết quả là bao nhiêu?;;;Câu trả lời đúng là: 6.25
+Trong MS Excel, để lưu một tệp đang được lưu trước đó với một Tên khác, thực hiện nhấn phím:;;;Câu trả lời đúng là: F12
+Trong MS Excel, hàm nào sau đây dùng để chuyển chữ in hoa thành chữ Thường;;;Câu trả lời đúng là: LOWER
+﻿Trong MS Excel, vào menu File, chọn Print và chọn Page Setup, sau đó chọn thẻ Margins để làm gì?;;;Câu trả lời đúng là: Căn chỉnh lề cho giấy khi in
+Trong MS Excel, nhấn tổ hợp phím nào sẽ thực hiện Dán (Paste) dữ liệu từ bộ nhớ đệm vào ô được chọn?;;;Câu trả lời đúng là: Ctrl + V
+Trong MS Excel, để chèn một Cột giữa cột A và cột B thì phải chọn cột nào sau đây?;;;Câu trả lời đúng là: Cột B
+Trong MS Excel, hàm nào sau đây lấy Giá trị dư của phép chia?;;;Câu trả lời đúng là: Mod
+Trong MS Excel 2016, để In tệp thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Print
+Trong MS Excel 2016, để Mở một tệp đã tồn tại trên đĩa, đầu tiên ta phải;;;Câu trả lời đúng là: Vào menu File, chọn Open
+Trong MS Excel, biểu thức =MONTH("6-May") cho kết quả là bao nhiêu?;;;Câu trả lời đúng là: 5
+Trong MS Excel, hàm AVERAGE dùng để?;;;Câu trả lời đúng là: Tính giá trị trung bình của các giá trị được chọn
+Trong MS Excel, dữ liệu kiểu Số ở chế độ mặc định nằm ở vị trí nào trong ô?;;;Câu trả lời đúng là: Bên phải
+Trong MS Excel 2016, trong khi Định dạng bảng tính để xóa một sheet thực hiện:;;;Câu trả lời đúng là: Vào menu Home, chọn Delete, sau đó chọn Delete Sheet.
+Trong MS Excel 2016, hộp định dạng vị trí (Alignment) nằm trên menu nào?;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, tổ hợp phím nào dưới đây thực hiện việc Tạo mới một bảng tính?;;;Câu trả lời đúng là: Ctrl + N
+Trong MS Excel, để mở một bảng tính có sẵn, bạn khởi động chương trình ứng dụng MS Excel, vào thực đơn lệnh File, chọn lệnh:;;;Câu trả lời đúng là: Open
+Trong MS Excel, cho biết kết quả của công thức: =INT(-8.2);;;Câu trả lời đúng là: -9
+Trong MS Word 2016, muốn Thay cỡ giấy (Size). Ví dụ: cỡ giấy A4, Letter,... cho trang in, thực hiện:;;;Câu trả lời đúng là: Vào menu Page Layout, chọn Size
+Trong MS Excel 2016, để Chèn hộp văn bản (Textbox) vào bảng tính thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Text Box.
+Trong MS Excel, tại ô A2 có sẵn giá trị số 25; Tại ô B2 gõ vào công thức =SQRT(A2) thì nhận được kết quả:;;;Câu trả lời đúng là: 5
+Trong MS Excel, ở một bảng tính một cửa hàng văn phòng phẩm có bán các loại hàng hoá như: vở, bút bi, thước, phấn, …, có thể sử dụng hàm gì để giúp cửa hàng tính được tổng số tiền bán được của từng loại hàng hóa?;;;Câu trả lời đúng là: SUMIF
+Trong MS Excel, kết quả công thức =MAX(2,MOD(8,5)) là:;;;Câu trả lời đúng là: 3
+Trong MS Excel 2016, để Lưu tệp thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Save
+Trong MS Excel, tổ hợp phím nào dưới đây thực hiện việc Lưu một bảng tính?;;;Câu trả lời đúng là: Ctrl + S
+Trong MS Excel, địa chỉ B3 là địa chỉ:;;;Câu trả lời đúng là: Tương đối
+Trong MS Excel, để định dạng kiểu số % cho ô hiện tại, nhấn tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + Shift + %
+Trong MS Excel 2016, để Hiển thị chế độ xem trước khi in (Page Break Preview) thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu View, chọn Page Break Preview
+Trong MS Excel, cho biết địa chỉ nào sau đây không hợp lệ;;;Câu trả lời đúng là: 111$A
+Trong MS Excel, tổ hợp phím nào sẽ dùng để bật hộp thoại Tìm kiếm?;;;Câu trả lời đúng là: Ctrl + F
+Trong MS Excel, kết quả của một phép so sánh hoặc phép toán Logic bao giờ cũng cho kết quả là;;;Câu trả lời đúng là: Chỉ một trong hai giá trị: True hoặc False
+Trong MS Excel, hàm MAX dùng để:;;;Câu trả lời đúng là: Tìm giá trị lớn nhất trong các giá trị được chọn.
+Trong MS Excel 2016, trong khi Định dạng muốn xóa hàng, cột, ô... cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home | Cells
+Trong MS Excel, tổ hợp phím được dùng để Đóng bảng tính đang mở?;;;Câu trả lời đúng là: Ctrl + F4
+Trong MS Excel, sau khi nhập công thức sau: ="123"-"23" có kết quả?;;;Câu trả lời đúng là: 100
+Trong MS Excel 2016, để Thêm một chú thích (New Comment) trong bảng tính, thực hiện;;;Câu trả lời đúng là: Vào menu Review, chọn New Comment
+Trong MS Excel, muốn định dạng kiểu chữ Nghiêng, nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + I
+Trong MS Excel, để tự động tính tổng của hai ô A1 và C1 thực hiện:;;;Câu trả lời đúng là: Nhập công thức: =A1+C1.
+Trong MS Excel, các kiểu dữ liệu thông dụng là:;;;Câu trả lời đúng là: Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức
+Trong MS Excel, địa chỉ $B$3 là địa chỉ:;;;Câu trả lời đúng là: Tuyệt đối
+Trong MS Excel, hàm ROUND dùng để;;;Câu trả lời đúng là: Làm tròn số
+Trong MS Word 2016, khi muốn Thay đổi tài liệu có khổ giấy theo hướng Dọc thì thực hiện:;;;Câu trả lời đúng là: Vào menu Page Layout, chọn Oriention và chọn Portraint
+Trong MS Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự "Tin hoc van phong" ; Tại ô B2 gõ vào công thức =LOWER(A2) thì nhận được kết quả là?;;;Câu trả lời đúng là: tin hoc van phong
+Trong MS Excel, nhấn tổ hợp phím nào sẽ thực hiện Sao chép (Copy) dữ liệu của ô được chọn vào bộ nhớ đệm?;;;Câu trả lời đúng là: Ctrl + C
+Trong MS Word 2016, muốn Thay đổi hướng giấy (Oriention). Ví dụ: hướng Ngang hoặc hướng Dọc cho trang in, thực hiện:;;;Câu trả lời đúng là: Vào menu Page Layout, chọn Oriention để chọn hướng giấy tương ứng
+Trong MS Excel, để sao chép định dạng một ô, sau khi chọn ô đã được định dạng trước, nhấn nút nào dưới đây trên thanh công cụ?;;;Câu trả lời đúng là: Nút Format Painter
+Trong MS Excel 2016, để định dạng kiểu chữ Đậm (Bold) cho nội dung,  thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, vào DATA chọn FILTER...:;;;Câu trả lời đúng là: Để trích lọc thông tin.
+Trong MS Excel, tại ô A2 có giá trị 10. Tại ô B2 gõ vào công thức =MOD(A2,5)*5 thì nhận được kết quả là:;;;Câu trả lời đúng là: 0
+Trong MS Excel, để đổi tên một Sheet thực hiện:;;;Câu trả lời đúng là: Nhấn đôi chuột Trái tại Sheet đó rồi đổi tên Sheet.
+Trong MS Excel, câu nào sau đây SAI khi nhập dữ liệu vào bảng tính Excel:;;;Câu trả lời đúng là: Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái.
+Trong MS Excel 2016, để lưu một bảng tính đang mở dưới một tên khác, thực hiện vào menu File, chọn lệnh:;;;Câu trả lời đúng là: Save As
+Trong MS Excel 2016, để Xóa một chú thích (Delete Comment) trong bảng tính. Chọn comment cần xóa và thực hiện:;;;Câu trả lời đúng là: Vào menu Review, chọn Delete
+Trong MS Excel 2016, để Tạo mới văn bản thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn New
+Trong MS Excel, để chèn thêm 1 Bảng tính (Worksheet). Nhấn tổ hợp phím nào?;;;Câu trả lời đúng là: Shift + F11
+Trong MS Excel 2016, để định dạng Phông chữ (Font) cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel 2016, hộp định dạng Font nằm trên menu nào?;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, tại ô A2 có giá trị là dãy ký tự “TINHOC”. Tại ô B2 gõ công thức =RIGHT(A2;3) thì nhận được kết quả:;;;Câu trả lời đúng là: HOC
+Trong MS Excel, muốn Phục hồi (Undo) thao tác vừa thực hiện thì bấm tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + Z
+Trong MS Excel, để lựa chọn các vùng Liền kề nhau cần sử dụng chuột kết hợp với phím nào?;;;Câu trả lời đúng là: Shift
+Trong MS Excel, để chỉnh sửa dữ liệu ở một ô hiện hành, nhấn phím chức năng nào?;;;Câu trả lời đúng là: F2
+Trong MS Excel, tổ hợp phím được dùng để Đóng tài liệu đang mở?;;;Câu trả lời đúng là: Alt + F4
+Trong MS Excel 2016, để định dạng Màu chữ (Font Color) cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, tại ô A2 có sẵn dãy kí tự "1Angiang2". Nếu sử dụng nút điền để điền dữ liệu đến các cột B2, C2, D2, E2; thì kết quả nhận được tại ô E2 là:;;;Câu trả lời đúng là: 1Angiang6
+Trong MS Excel, hàm tìm vị trí thứ hạng của một số trong dãy số (xếp thứ hạng);;;Câu trả lời đúng là: RANK
+Trong MS Excel, cho biết kết quả của công thức: =RIGHT("Cao Đẳng YTHN",2);;;Câu trả lời đúng là: HN
+Trong MS Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào sau đây?;;;Câu trả lời đúng là: < >
+Trong MS Excel, để Tìm kiếm và Thay thế từ đó bằng từ khác trong văn bản dùng tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + H
+Trong MS Excel, các phát biểu sau, phát biểu nào ĐÚNG?;;;Câu trả lời đúng là: Bảng tính có thể có đến 256 cột. Các cột được đánh thứ tự bằng các chữ cái A,B,C .. Z,AA, AB,AC..
+Trong MS Excel 2016, để có định dạng kiểu Phần trăm (Ví dụ: 20%) cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, để hoàn thành việc nhập 1 ô và di chuyển xuống ô phía dưới thì nhấn phím nào?;;;Câu trả lời đúng là: Enter
+Trong MS Excel, hàm dùng để chuyển chuỗi số sang số là hàm nào trong các hàm sau?;;;Câu trả lời đúng là: Value
+Trong MS Excel, công thức = ROUND(3.56,1) sẽ cho ra giá trị:;;;Câu trả lời đúng là: 3.6
+Trong MS Excel 2016, để định dạng canh Giữa (Center) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel 2016, để định dạng canh Phải (Right) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, tổ hợp phím nào dùng để ra lệnh in văn bản?;;;Câu trả lời đúng là: Ctrl + P
+Trong MS Excel, tại ô A2 có giá trị là chuỗi TINHOC. Tại ô B2 gõ công thức =LEFT(A2,3) thì nhận được kết quả;;;Câu trả lời đúng là: TIN
+Trong MS Excel 2016, để Chèn biểu đồ (Chart) vào bảng tính thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn biểu đồ tương ứng trong Charts.
+Trong MS Excel, các hàm IF, AND và OR là thuộc loại hàm xử lý dữ liệu:;;;Câu trả lời đúng là: Logic.
+Trong MS Excel, để đổi tên một sheet trong Excel thực hiện:;;;Câu trả lời đúng là: Phải chuột vào Sheet chọn Rename.
+Trong MS Excel 2016, để định dạng canh trái, phải, giữa... cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home | Alignment
+Trong MS Excel, hàm nào sau đây dùng để chuyển chữ thường thành chữ IN HOA;;;Câu trả lời đúng là: UPPER
+Trong MS Excel, để hủy bỏ vùng đang chọn thì nhấn phím nào?;;;Câu trả lời đúng là: Esc
+Trong MS Excel 2016, hộp định dạng Page Setup thực hiện:;;;Câu trả lời đúng là: Vào menu Page Layout.
+Trong MS Excel 2016, để định dạng cỡ chữ, dạng chữ, in béo, in nghiêng, kiểu chữ... cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home | Font
+Trong MS Excel, khi chiều dài dữ liệu kiểu số dài hơn chiều rộng của ô thì sẽ hiện thị trong ô các kí tự là?;;;Câu trả lời đúng là: #
+Trong MS Excel, muốn định dạng kiểu chữ Gạch chân, nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + U
+Trong MS Excel, công thức nào cho kết quả OfficeXP?;;;Câu trả lời đúng là: ="Office"&"XP"
+Trong MS Excel, giao của một hàng và một cột được gọi là?;;;Câu trả lời đúng là: Ô.
+Trong MS Excel, công thức nào sau đây cho phép lấy ra chuỗi "Pho Hoa" từ chuỗi ký tự "Da Lat Thanh Pho Hoa";;;Câu trả lời đúng là: =Right("Da Lat Thanh Pho Hoa",7)
+Trong MS Excel, sau khi sử dụng chức năng Undo (Ctrl + Z), để quay lại bước trước khi nhấn Undo dùng tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + Y
+Trong MS Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự "Tin hoc van phong"; Tại ô B2 gõ vào công thức =PROPER(A2) thì nhận được kết quả?;;;Câu trả lời đúng là: Tin Hoc Van Phong
+Trong MS Excel 2016, để Chèn hình ảnh (Pictures) vào bảng tính thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Pictures.
+Trong MS Excel, tổ hợp phím nào dưới đây thực hiện việc Chèn một liên kết?;;;Câu trả lời đúng là: Ctrl + K
+Trong MS Excel, biểu thức sau cho kết quả là bao nhiêu? =DAY("15-Apr-1998");;;Câu trả lời đúng là: 15
+Trong MS Excel 2016, để Hiển thị thước (Ruler) trong tài liệu, thực hiện;;;Câu trả lời đúng là: Vào menu View, chọn Ruler
+Trong MS Excel, địa chỉ ô như thế nào sau đây là đúng;;;Câu trả lời đúng là: A1
+Trong MS Excel 2016, để Đóng tệp thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Close
+Trong MS Excel, sau khi gõ công thức ở ô (ví dụ: = E3) muốn làm tham chiếu tuyệt đối (= $E$3), có thể bấm;;;Câu trả lời đúng là: F4
+Trong MS Excel, để chọn Toàn bộ bảng tính thì nhấn tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + A
+Trong MS Excel, để thực hiện phép toán nối 2 Chuỗi với nhau thì sử dụng kí hiệu nào sau đây?;;;Câu trả lời đúng là: &
+Trong MS Excel, giả sử tại ô B3 gõ như sau: today() kết quả là;;;Câu trả lời đúng là: today()
+Trong MS Excel, sau khi thực hiện lệnh sắp xếp dữ liệu theo chiều tăng dần, thứ tự sắp xếp nào sau đây là ĐÚNG?;;;Câu trả lời đúng là: A010 - A011 - A100
+Trong MS Excel 2016, để định dạng kiểu chữ Nghiêng (Italic) cho nội dung,  thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, hàm MIN dùng để:;;;Câu trả lời đúng là: Tìm giá trị nhỏ nhất trong các giá trị được chọn.
+Trong MS Excel, tại ô A2 có giá trị là ngày 30/04/2016. Tại ô B2 gõ công thức =DAY(A2) thì nhận được kết quả:;;;Câu trả lời đúng là: 30
+Trong MS Excel 2016, để định dạng kiểu chữ Gạch chân (Underline) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, để biểu diễn số liệu dạng Phần trăm, sử dụng biểu đồ kiểu nào dưới đây là hợp lý nhất?;;;Câu trả lời đúng là: Biểu đồ dạng quạt tròn (Pie)
+Trong MS Excel, giả sử ô A1 của bảng tính lưu giá trị ngày 15/10/1970. Kết quả hàm =MONTH(A1) là bao nhiêu?;;;Câu trả lời đúng là: 10
+Trong MS Excel, dữ liệu kiểu Ngày tháng ở chế độ mặc định nằm ở vị trí nào trong ô?;;;Câu trả lời đúng là: Bên phải
+Trong MS Word 2016, khi muốn Thay đổi tài liệu có khổ giấy theo hướng Ngang thì thực hiện:;;;Câu trả lời đúng là: Vào menu Page Layout, chọn Oriention và chọn Landscape
+Trong MS Excel, muốn định dạng kiểu chữ Đậm, nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + B
+Trong MS Excel, tại ô A1 chứa trị 3; ô A2 chứa trị 2. Hàm MOD(A1,A2) sẽ trả về trị?;;;Câu trả lời đúng là: 1
+Trong MS Excel 2016, để Rút trích (Filter) cho Dữ liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Data, chọn Filter.
+Trong MS Excel, muốn chèn Ngày hiện tại vào ô thì bấm tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + ;
+Trong MS Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự "Tin hoc van phong"; Tại ô B2 gõ vào công thức =UPPER(A2) thì nhận được kết quả?;;;Câu trả lời đúng là: TIN HOC VAN PHONG
+Trong MS Excel, tổ hợp phím nào dưới đây thực hiện việc Mở một bảng tính?;;;Câu trả lời đúng là: Ctrl + O
+Trong MS Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?;;;Câu trả lời đúng là: Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số.
+Trong MS Excel, biểu thức =MID("A123B",3,2) sẽ trả về kết quả là bao nhiêu?;;;Câu trả lời đúng là: 23
+Trong MS Excel, tổ hợp phím nào để Xem bảng tính trước khi in?;;;Câu trả lời đúng là: Ctrl + F2
+Trong MS Excel, có thể cho nội dung trong một ô hiển thị theo kiểu gì?;;;Câu trả lời đúng là: Cả 3 kiểu đều thực hiện được
+Trong MS Excel, dữ liệu kiểu Chuỗi ở chế độ mặc định nằm ở vị trí nào trong ô?;;;Câu trả lời đúng là: Bên trái
+Trong MS Excel 2016, để Hiển thị chế độ mặc định (Normal) thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu View, chọn Normal.
+Trong MS Excel 2016, để Định dạng số như phần trăm (%), tiền tệ ($), ngăn cách hàng nghìn... cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home | Number
+Trong MS Excel, để thực hiện phép toán Lũy thừa thì sử dụng kí hiệu nào sau đây?;;;Câu trả lời đúng là: ^
+Trong MS Excel, tại ô A1 có giá trị 6, biểu thức sau cho kết quả là gì? =If(A1>=5, Đỗ, Trượt);;;Câu trả lời đúng là: #Name?
+Trong MS Excel 2016, để định dạng Cỡ chữ (Size) cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, muốn nhập dữ liệu số với những số 0 phía trước mỗi số. Ví dụ 0912 hay 0011, thực hiện:;;;Câu trả lời đúng là: Nhập dấu nháy đơn (') trước khi nhập số
+Trong MS Excel, công thức nào sau đây cho phép lấy ra chuỗi "Da Lat" từ chuỗi ký tự "Da Lat Thanh Pho Hoa";;;Câu trả lời đúng là: =Left("Da Lat Thanh Pho Hoa",6)
+Trong MS Excel 2016, để định dạng canh Trái (Left) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Một công thức trong MS Excel luôn bắt đầu bằng dấu nào sau đây?;;;Câu trả lời đúng là: =
+Trong MS Excel, tại ô A1 có giá trị 6, biểu thức sau cho kết quả là gì? =If(A1>=5, "Đỗ", "Trượt");;;Câu trả lời đúng là: Đỗ
+Trong MS Excel 2016, để định dạng Màu nền (Fill Color) cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, tại ô A2 có giá trị 0 (số không); Tại ô B2 gõ vào công thức =5/A2 thì nhận được kết quả:;;;Câu trả lời đúng là: #DIV/0!
+Trong MS Excel, để thực hiện phép toán Nhân thì sử dụng kí hiệu nào sau đây?;;;Câu trả lời đúng là: *
+Trong MS Excel, phím tắt nào sau đây sẽ xuống một dòng ngay trong cùng một ô?;;;Câu trả lời đúng là: Alt + Enter
+Trong MS Excel, để lựa chọn các vùng không liền kề nhau cần sử dụng chuột kết hợp với phím nào?;;;Câu trả lời đúng là: Ctrl
+Trong MS Excel 2016, để có định dạng kiểu Ngăn cách hàng nghìn (Ví dụ: 2.000.000) cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel 2016, để phóng to hoặc thu nhỏ (Zoom) nội dung trong tài liệu, thực hiện;;;Câu trả lời đúng là: Vào menu View, chọn Zoom
+Trong MS Excel 2016, để Chèn tiêu đề (Header & Footer) vào bảng tính thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Header.
+Trong MS Excel 2016, để lưu một tệp trước đó với một Tên khác, ta có thể;;;Câu trả lời đúng là: Vào menu File, chọn Save As
+Trong MS Excel, hàm nào sau đây cho biết chiều dài của chuổi ký tự?;;;Câu trả lời đúng là: Len
+Trong MS Word 2016, muốn Thay đổi lề (Margins). Ví dụ: Thay đổi lề trái, phải, trên, dưới, theo mẫu cho trang in, thực hiện:;;;Câu trả lời đúng là: Vào menu Page Layout, chọn Margins và chọn theo mẫu tương ứng
+Trong MS Excel, tại ô A2 có giá trị là chuỗi TINHOC. Tại ô B2 gõ công thức =LEN(A2) thì nhận được kết quả:;;;Câu trả lời đúng là: 6
+﻿Trong MS Excel 2016, để cài Mật khẩu cho tệp hiện thời:;;;Câu trả lời đúng là: Vào menu File | Info | Protect Workbook | Encrypt with Password
+Trong MS Excel, hàm nào sau đây lấy Phần nguyên của một số?;;;Câu trả lời đúng là: Int
+Trong MS Excel 2016, để Chèn ký tự đặc biệt (Symbol) vào bảng tính thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Symbol.
+Trong MS Excel 2016, để Chèn một biểu thức tính toán (Equation) vào bảng tính thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Equation.
+Trong MS Excel, tổ hợp phím được dùng để hiển thị hộp thoại Format?;;;Câu trả lời đúng là: Ctrl + 1
+Trong MS Excel, để thực hiện phép toán Chia thì sử dụng kí hiệu nào sau đây?;;;Câu trả lời đúng là: /
+Trong MS Excel, tổ hợp phím được dùng để Đóng bảng tính đang mở?;;;Câu trả lời đúng là: Ctrl + W
+Trong MS Excel, giả sử tại ô C2 trong bảng chứa giá trị 3.124567 và tại ô C4 có công thức là =round(C2). Giá trị của C4 sẽ là;;;Câu trả lời đúng là: Công thức không đúng
+Trong MS Excel 2016, muốn Sắp xếp (Sort) cho Dữ liệu sau khi đã chọn phần dữ liệu thì thực hiện:;;;Câu trả lời đúng là: Vào menu Data, chọn Sort và chọn kiểu sắp xếp
+Trong MS Excel, tổ hợp phím nào sau đây cho phép ngay lập tức đưa con trỏ về ô Cuối của bảng tính?;;;Câu trả lời đúng là: Ctrl + End
+Trong MS Excel 2016, hộp định dạng kiểu số (Number) nằm trên menu nào?;;;Câu trả lời đúng là: Vào menu Home.
+Trong MS Excel, chuỗi nào sau đây là kết quả của công thức: =Proper("Tin học"):;;;Câu trả lời đúng là: Tin Học
+Trong MS Excel, muốn tính trung bình của hàng hay cột, sử dụng hàm nào trong số các hàm dưới đây?;;;Câu trả lời đúng là: Hàm Average()
+Trong MS Excel 2016, trong khi Định dạng bảng tính muốn xóa hẳn một hàng ra khỏi trang tính, đánh dấu khối chọn hàng này và thực hiện:;;;Câu trả lời đúng là: Vào menu Home, chọn Delete, sau đó chọn Delete Rows.
+Trong MS Excel, công thức nào sau đây cho phép lấy ra chuỗi "Thanh Pho" từ chuỗi ký tự "Da Lat Thanh Pho Hoa";;;Câu trả lời đúng là: =Mid("Da Lat Thanh Pho Hoa",8,9)
+Trong MS Excel, khi vào menu Home, chọn thẻ Borders có tác dụng gì?;;;Câu trả lời đúng là: Tạo khung viền cho bảng tính cần chọn
+Trong MS Excel, địa chỉ B$3 là địa chỉ:;;;Câu trả lời đúng là: Hỗn hợp
+Trong MS Excel, muốn Sắp xếp (Sort) danh sách Dữ liệu theo thứ tự tăng (giảm) thực hiện:;;;Câu trả lời đúng là: Vào menu Data, chọn Sort
+Trong MS Excel, nhấn tổ hợp phím nào sẽ thực hiện Cắt (Cut) dữ liệu của ô được chọn vào bộ nhớ đệm?;;;Câu trả lời đúng là: Ctrl + X
+Trong MS Excel, cho biết kết quả của hàm =ROUND(5234,-2);;;Câu trả lời đúng là: 5200
+Trong MS Excel, khối ô là tập hợp nhiều ô kế cận tạo thành hình chữ nhật. Địa chỉ khối ô được thể hiện như câu nào sau đây là đúng?;;;Câu trả lời đúng là: B1:H15
+Trong MS Excel, giả sử tại ô B3 gõ như sau: =today() kết quả là;;;Câu trả lời đúng là: Hiển thị ngày hiện tại
+Trong MS Excel 2016, tổ hợp phím nào sau đây cho phép ngay lập tức đưa con trỏ về ô Đầu tiên (ô A1) của bảng tính?;;;Câu trả lời đúng là: Ctrl + Home
+Trong MS Excel, để tính tổng các ô từ A1 đến A7, công thức nào dưới đây là ĐÚNG?;;;Câu trả lời đúng là: =SUM(A1:A7)
+Trong MS Excel 2016,  khi muốn Tệp được lưu vào thư mục mặc định. Thao tác nào sau đây để thiết lập thư mục lưu trữ mặc định;;;Câu trả lời đúng là: Vào menu File | Option | Save | Default local file location…
+Trong MS Excel 2016, muốn Thay đổi lề (Margins). Ví dụ: Thay đổi lề trái, phải, trên, dưới, hướng giấy,… cho trang in, thực hiện:;;;Câu trả lời đúng là: Vào menu Page Layout, chọn Page Setup, sau đó chọn tab là Margins
+Trong MS Excel, biểu thức sau cho kết quả là bao nhiêu? =YEAR("15-Apr-1998");;;Câu trả lời đúng là: 1988
+Trong MS Excel, hàm SUM dùng để?;;;Câu trả lời đúng là: Tính tổng các giá trị được chọn
+Trong Ms Excel, muốn ẩn hoặc hiện thanh công cụ Ribbon, người sử dụng dùng tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + F1
+Trong  Powerpoint 2016, để Chèn một sơ đồ tổ chức (SmartArt) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn SmartArt.
+Trong Powerpoint 2016, để In tệp thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Print
+Khi kể một câu chuyện, nếu bạn nói theo kiểu ứng biến và tùy hứng, người đọc sẽ thấy nó tự nhiên và dễ tiếp nhận hơn. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong Powerpoint, để chọn Toàn bộ đối tượng thì nhấn tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + A
+Trong Powerpoint 2016, để Chèn chữ nghệ thuật (WordArt) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn WordArt.
+Trong Powerpoint, sau khi sử dụng chức năng phục hồi (Ctrl + Z), để quay lại bước trước khi nhấn Undo dùng tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + Y
+3-5 vấn đề trong phần thân bài là một con số lý tưởng để có thể phát triển nội dung bài, vừa tránh được sự sơ sài khi quá ít vấn đề lại tránh được sự lan man nếu đưa ra nhiều vấn đề. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong Powerpoint 2016, để Chèn một biểu đồ (Chart) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Chart.
+Trong Powerpoint, đang trình chiếu một bài trình diễn, muốn dừng trình diễn thực hiện thao tác nhấn phím:;;;Câu trả lời đúng là: ESC.
+Trong Powerpoint 2016, để Chèn chú thích (Comment) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Comment.
+Trong Powerpoint, muốn định dạng kiểu chữ Gạch chân, nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + U
+Trong Powerpoint, để lưu một tệp trước đó với một Tên khác, thực hiện nhấn phím:;;;Câu trả lời đúng là: F12
+Trong Powerpoint 2016, để Thay đổi màu nền cho Slide, thực hiện:;;;Câu trả lời đúng là: Vào menu Design, chọn Format Background
+Trong Powerpoint 2016, để định dạng Phông chữ (Font) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong Powerpoint, sau khi đã chèn một bảng vào slide, muốn chia ô hiện tại thành 2 ô, thực hiện thao tác:;;;Câu trả lời đúng là: Nhấn chuột phải và chọn Split Cells…
+Trong Powerpoint, sau khi đã chọn một số đối tượng trên slide hiện hành, nhấn tổ hợp phím nào sau đây sẽ Sao chép (Copy) các đối tượng đó vào bộ nhớ đệm?;;;Câu trả lời đúng là: Ctrl + C
+Trong Powerpoint 2016, trong khi Định dạng để thêm mới một Slide (New Slide), thực hiện:;;;Câu trả lời đúng là: Vào menu Home | New Slide
+Trong Powerpoint 2016, để định dạng Vị trí (Align Text) cho nội dung ở phía trên hoặc phía dưới hoặc giữa, thực hiện:;;;Câu trả lời đúng là: Vào menu Home | Align Text
+Trong Powerpoint 2016, để hiển thị thước (Ruler) trong tài liệu, thực hiện;;;Câu trả lời đúng là: Vào menu View, chọn Zoom
+Trong Powerpoint 2016, hộp định dạng Font nằm trên menu nào?;;;Câu trả lời đúng là: Vào menu Home.
+Làm Silde với các mẫu PowerPoint sẵn có sẽ làm khán giả thấy nhàm chán, đơn điệu. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong Powerpoint 2016, để định dạng Cỡ chữ (Size) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong Powerpoint 2016, để định dạng Màu chữ (Font Color) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Bài thuyết trình được chuẩn bị chu đáo bạn sẽ không bị động và giảm được mức độ sợ hãu khi đứng trước đám đông. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong Powerpoint, đánh dấu một đoạn văn bản sau đó nhấn tổ hợp phím Ctrl + L, thao tác này tương ứng với lựa chọn nào sau đây?;;;Câu trả lời đúng là: Canh trái đoạn văn được chọn.
+Hãy chọn đáp án saiĐể việc thuyết trình bán hàng được thành công, bạn nên lưu ý những nguyên tắc nào dưới đây:;;;Câu trả lời đúng là: Không cần chú ý tới trang phục
+Trong Powerpoint, tổ hợp phím nào để Xem trước khi in?;;;Câu trả lời đúng là: Ctrl + F2
+Đối với Silde thuyết trình, bạn nên làm với các mẫu PowerPoint sẵn có cho đơn giản. Đúng hay sai?;;;Câu trả lời đúng là: Sai
+Trong Powerpoint 2016, để định dạng Xoay chữ (Text Direction) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home | Text Direction
+Trong Powerpoint, để tạo mới một bài thuyết trình thực hiện nhấn tố hợp phím:;;;Câu trả lời đúng là: Ctrl + N
+Đối với hình thức thuyết trình theo nhóm, việc phối hợp ăn ý giữa các thành viên với nhau cả trong quá trình chuẩn bị và tiên hành thuyết trình là cần thiết nhất. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong Powerpoint, tự thấy qua một số các thao tác đều không đạt yêu cầu (sai nhiều) cần phải trở lại trước đó (phục hồi: undo) ta sử dụng tổ hợp phím nào sau đây là tốt nhất?;;;Câu trả lời đúng là: Ctrl + Z
+Hãy chọn đáp án đúng để điền vào chỗ trống “……” để hiểu hơn về các phương pháp phát triển vấn đề trong thân bài của một bài thuyết trình.Băt đầu từ việc phân tích hiện trạng của vấn đề nghiên cứu, đánh giá điểm mạnh, yếu, tìm nguyên nhân, trên cơ sở đó đề xuất các giải pháp phát huy điểm mạnh, khắc phục điểm yếu. Đó là ……;;;Câu trả lời đúng là: Phương pháp theo nguyên nhân và kết quả
+Trong Powerpoint 2016, nút lệnh Screenshot có chức năng?;;;Câu trả lời đúng là: Chụp ảnh các chương trình đang chạy để chèn vào Slide
+Trong Powerpoint 2016, để Xóa một chú thích (Delete Comment) trong Slide. Chọn comment cần xóa và thực hiện:;;;Câu trả lời đúng là: Vào menu Review, chọn Delete
+Trong Powerpoint 2016, để cài Mật khẩu cho Tệp hiện thời:;;;Câu trả lời đúng là: Vào menu File | Info | Protect Presentation | Encrypt with Password
+Trong Powerpoint 2016,  khi muốn Tệp được lưu vào thư mục mặc định. Thao tác nào sau đây để thiết lập thư mục lưu trữ mặc định;;;Câu trả lời đúng là: Vào menu File | Option | Save | Default local file location…
+Trong Powerpoint, sau khi đã chọn một số đối tượng trên slide hiện hành, nhấn tổ hợp phím nào sau đây sẽ Cắt (Cut) các đối tượng đó vào bộ nhớ đệm?;;;Câu trả lời đúng là: Ctrl + X
+Trong Powerpoint, để thêm một Silde mới nhấn tổ hợp phím nào sau đây?;;;Câu trả lời đúng là: Ctrl + M
+﻿Hãy chọn đáp án thích hợp điền vào chỗ trống “……” để hoàn thành khái niệm về thuyết trình.“Thuyết trình là một cách truyền đạt những …... tới một nhóm người, là phương pháp trình bày bẳng lời trước nhiều người về một vấn đề nào đó nhằm cung cấp thông tin hoặc thuyết phục, gây ảnh hưởng đến người nghe.”;;;Câu trả lời đúng là: ý tưởng và các thông tin
+Trong Powerpoint, khi đang trình chiếu (Slide Show) một bài trình diễn, muốn chuyển sang màn hình của một chương trình ứng dụng khác (đã mở trước) để minh họa mà không kết thúc việc trình chiếu, người sử dụng phải thực hiện nhấn phím;;;Câu trả lời đúng là: Alt + Tab
+Trong Powerpoint 2016, hộp định dạng Paragraph nằm trên menu nào?;;;Câu trả lời đúng là: Vào menu Home.
+Trong Powerpoint, đánh dấu một đoạn văn bản sau đó nhấn tổ hợp phím Ctrl + R, thao tác này tương ứng với lựa chọn nào sau đây?;;;Câu trả lời đúng là: Canh phải đoạn văn được chọn.
+Trong Powerpoint, khi đang trình chiếu (Slide Show) một bài trình diễn, muốn mở một chương trình ứng dụng khác (đã có trong menu programs) để minh hoạ mà không phải kết thúc việc trình chiếu người sử dụng thực hiện:;;;Câu trả lời đúng là: Nhắp chuột vào Start | vào Programs chọn ứng dụng.
+Trong Powerpoint, vào menu File, chọn Open là để làm gì?;;;Câu trả lời đúng là: Mở một presentation đã có trên đĩa
+Trong Powerpoint, đánh dấu một đoạn văn bản sau đó nhấn tổ hợp phím Ctrl + E, thao tác này tương ứng với lựa chọn nào sau đây?;;;Câu trả lời đúng là: Canh giữa đoạn văn được chọn.
+Trong Powerpoint 2016, để Chèn ngày hoặc giờ (Date & Time) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Date & Time.
+Trong Powerpoint, tổ hợp phím được sử dụng để Bật hoặc Tắt chế độ khung lưới khi soạn thảo:;;;Câu trả lời đúng là: Shift + F9
+Trong Powerpoint, để bắt đầu trình chiếu từ Silde đang chọn, dùng tổ hợp phím:;;;Câu trả lời đúng là: Shift + F5
+Trong Powerpoint, tổ hợp phím Ctrl + N dùng để:;;;Câu trả lời đúng là: Tạo Presentation mới
+Hãy chọn đáp án đúng để điền vào chỗ trống “……” để hiểu hơn về các phương pháp phát triển vấn đề trong thân bài của một bài thuyết trình.Khi trình bày những vấn đề liên quan đến không gian rộng lớn, bạn có thể sắp xếp theo trình tự toàn cầu, khu vực, châu lục, vùng miền…Đó là ……;;;Câu trả lời đúng là: Phương pháp sắp xếp theo không gian
+Trong Powerpoint 2016, để Thêm một chú thích (New Comment) trong Slide, thực hiện;;;Câu trả lời đúng là: Vào menu Review, chọn New Comment
+Hãy chọn đáp án đúng để điền vào chỗ trống “……” để hiểu hơn về các phương pháp phát triển vấn đề trong thân bài của một bài thuyết trình.Để rõ sự giống nhau hoặc khác nhau giữa các vấn đề, các sự việc. Vấn đề là phải tìm ra các đối tượng và các tiêu chí để so sánh. Đó là ……;;;Câu trả lời đúng là: Phương pháp so sánh và đối chiếu
+Trong Powerpoint 2016, để thực hiện Chèn bảng biểu (Table) vào slide thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Table
+Hãy chọn đáp án saiĐể việc thuyết trình bán hàng được thành công, bạn nên lưu ý những nguyên tắc nào dưới đây:;;;Câu trả lời đúng là: Chỉ cần quan tâm mình nói gì
+Trong Powerpoint 2016, để Chèn hình ảnh (Picture) vào một Slide thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Picture|
+Trong Powerpoint, tổ hợp phím nào dưới đây thực hiện việc Chèn một liên kết?;;;Câu trả lời đúng là: Ctrl + K
+Trong Powerpoint, tổ hợp phím được dùng để Lưu (Save) bài trình chiếu?;;;Câu trả lời đúng là: Ctrl + S
+Trong Powerpoint 2016, để Lưu tệp thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Save
+Trong Powerpoint, khi đã chọn đoạn văn bản và muốn đoạn đó có định dạng canh trái (Left). Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + L
+Trong Powerpoint, khi thoát khỏi PowerPoint nếu người sử dụng chưa lưu lại tệp thì máy sẽ hiện một thông báo. Để lưu lại tệp này ta sẽ kích chuột trái vào nút nào trong bảng thông báo này?;;;Câu trả lời đúng là: Nút Save
+Trong Powerpoint, để chuyển đoạn văn bản được chọn sang chữ in hoa, dùng tổ hợp phím:;;;Câu trả lời đúng là: Shift + F3
+Hãy chọn đáp án đúng để điền vào chỗ trống “……” để hiểu hơn về các phương pháp phát triển vấn đề trong thân bài của một bài thuyết trình.Sử dụng cách kể chuyện theo thời gian, lịch sử hình thành một vấn đề, một công ty, một phát minh…với những cột mốc thời gian xảy ra những sự kiện nhớ, cho đến thời điểm hiện tại. Đó là ……;;;Câu trả lời đúng là: Phương pháp theo trình tự thời gian
+Trong Powerpoint, tổ hợp phím nào dùng để ra lệnh in?;;;Câu trả lời đúng là: Ctrl + P
+Trong Powerpoint 2016, để phóng to hoặc thu nhỏ (Zoom) nội dung trong tài liệu, thực hiện;;;Câu trả lời đúng là: Vào menu View, chọn Zoom
+Trong Powerpoint 2016, để Tạo mới văn bản thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn New
+Trong Powerpoint, khi đã chọn đoạn văn bản và muốn đoạn đó có định dạng canh phải (Right). Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + R
+Trong Powerpoint 2016, để định dạng canh Bằng hai bên (Justify) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong Powerpoint 2016, để Chèn Video từ máy tính (Video on My PC) vào Slide thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu Insert, chọn Video và chọn Video on My PC
+Bài thuyết trình càng được chuẩn bị chi đáo thì càng tăng sức thuyết phục. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong Powerpoint 2016, để Lưu một tệp trước đó với một tên khác, ta có thể;;;Câu trả lời đúng là: Vào menu File, chọn Save As
+Trong Powerpoint, để Trình diễn Slide thực hiện thao tác nhấn phím:;;;Câu trả lời đúng là: F5
+Trong Powerpoint 2016, để Đóng tệp thực hiện:;;;Câu trả lời đúng là: Vào menu File, chọn Close
+Trong Powerpoint 2016, để Chèn liên kết (Hyperlink) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Hyperlink.
+Chọn đáp án sai.Giai đoạn chuẩn bị thuyết trình cần tuân thủ theo một quy trình gọi là quy trình TOPP, bao gồm:;;;Câu trả lời đúng là: Chuẩn bị phương tiện hỗ trợ
+Trong Powerpoint, để thêm một slide giống slide hiện tại sử dụng dùng tổ hợp phím lệnh nào sau đây?;;;Câu trả lời đúng là: Ctrl + D
+Trong Powerpoint 2016, để Chèn hình vẽ (Shapes) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Shapes.
+Trong Powerpoint 2016, để Chèn âm thanh từ máy tính (Audio on My PC) vào Slide thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu Insert, chọn Audio và chọn Audio on My PC
+Trong Powerpoint, muốn Phục hồi (Undo) thao tác vừa thực hiện thì bấm tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + Z
+Trong PowerPoint 2016, chọn phát biểu ĐÚNG trong các phát biểu dưới đây:;;;Câu trả lời đúng là: Cho phép lưu các Slide thành tệp định dạng văn bản điện tử PDF.
+Trong Powerpoint, nhấn tổ hợp phím nào sẽ thực hiện Dán (Paste) đoạn văn bản từ bộ nhớ đệm vào sau vị trí con trỏ?;;;Câu trả lời đúng là: Ctrl + V
+Trong Powerpoint 2016, để định dạng canh Trái (Left) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong PowerPoint, chức năng Animation dùng để làm gì?;;;Câu trả lời đúng là: Tạo hiệu ứng cho các đối tượng trên slide.
+Trong Powerpoint 2016, tên một tệp thường có đuôi mở rộng là;;;Câu trả lời đúng là: PPTX
+Trong Powerpoint 2016, để Chèn các nút lệnh như: nút trở về trang Slide đầu tiên thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Shapes, chọn nhóm Action Button
+Trong Powerpoint 2016, để Mở một tệp đã tồn tại trên đĩa, đầu tiên ta phải;;;Câu trả lời đúng là: Vào menu File, chọn Open
+Khi thuyết trình trong buổi ra mắt sản phẩm mới, bạn không nên:;;;Câu trả lời đúng là: Dùng từ ngữ chuyên môn sâu
+Trong Powerpoint 2016, để Chèn hộp văn bản (Textbox) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Text Box.
+Trong Powerpoint 2016, để định dạng canh Giữa (Center) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong Powerpoint 2016, để Chèn ký tự đặc biệt (Symbol) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Symbol.
+Thông thường, với một bài thuyết trình, bạn chỉ nên đưa ra 3-5 vấn đề chính trong phần thân bài. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong Powerpoint, Slide Master dùng để:;;;Câu trả lời đúng là: Lưu trữ thông tin về thiết kế kiểu dáng, màu sắc, font chữ, bố cục … cho các slide.
+Trong Powerpoint 2016, để định dạng cỡ chữ, dạng chữ, in béo, in nghiêng, kiểu chữ... cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home | Font
+Chọn một đáp án đúng.Bạn và một nhóm 5 sinh viên được yêu cầu thực hiện một bài thuyết trình nhóm môn học “Vận tải và giao nhận trong ngoại thương”. Nhóm bạn quyết định cử bạn và một thành viên nữa sẽ trình bày đề tài đã nghiên cứu trước lớp. Theo bạn, để hoàn thành tốt phần thuyết trình nhóm này, ngoài khả năng của bản thân, bạn còn cần kỹ năng quan trọng nào nữa?;;;Câu trả lời đúng là: Sự phối hợp ăn ý
+﻿Trong Powerpoint 2016, để Tạo hiệu ứng cho các đối tượng, thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu Animations, chọn kiểu Animation tương ứng.
+Trong Powerpoint 2016, để Thay đổi mẫu giao diện cho các slide thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu Design, chọn mẫu...
+﻿Trong Powerpoint 2016, để Chèn âm thanh khi thu âm (Record Audio) vào Slide thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu Insert, chọn Audio và chọn Record Audio
+Trong Powerpoint 2016, để định dạng kiểu chữ Gạch chân (Underline) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong Powerpoint, muốn định dạng kiểu chữ Nghiêng, nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + I
+Trong Powerpoint, sau khi đã chèn một bảng vào slide, muốn xóa một cột bất kỳ phải:;;;Câu trả lời đúng là: Chọn cột cần xóa, nhấn chuột phải và chọn Delete Columns.
+Trong Powerpoint, khi đã chọn đoạn văn bản và muốn đoạn đó có định dạng canh giữa (Centered). Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + E
+Hãy chọn đáp án đúngĐể việc thuyết trình bán hàng được thành công, bạn nên lưu ý những nguyên tắc nào dưới đây:;;;Câu trả lời đúng là: Tất cả các đáp án
+Trong Powerpoint 2016, để định dạng kiểu chữ Đậm (Bold) cho nội dung,  thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Chọn đáp án sai.Giai đoạn chuẩn bị thuyết trình cần tuân thủ theo một quy trình gọi là quy trình TOPP, bao gồm:;;;Câu trả lời đúng là: Chuẩn bị các phương án dự phòng
+Chọn đáp án đúngKhi kể một cấu chuyện hay một ví dụ thực tế, bạn nên chọn cách nói nào cho phù hợp nhất?;;;Câu trả lời đúng là: Nói ứng biến
+Trong Powerpoint 2016, thao tác nào sau đây để tạo mới 1 Tệp trình diễn theo mẫu giao diện (Themes) của chương trình?;;;Câu trả lời đúng là: Vào menu File | New | Chọn mẫu | Create.
+Trong Powerpoint 2016, để Hiển thị chế độ xem chú thích (Notes Page) thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu View, chọn Notes Page.
+Chọn đáp án đúng.Giai đoạn chuẩn bị thuyết trình cần tuân thủ theo một quy trình gọi là quy trình TOPP, bao gồm:;;;Câu trả lời đúng là: Phân tích khán/thính giả
+Trong Powerpoint, tổ hợp phím được dùng để Mở (Open) một tệp đã tồn tại trên đĩa?;;;Câu trả lời đúng là: Ctrl + O
+Trong Powerpoint 2016, thao tác nào sau đây để in Slide hiện tại từ Tệp trình diễn?;;;Câu trả lời đúng là: Vào menu File, chọn Print, sau đó chọn Print Current Slide
+Trong Powerpoint 2016, để Hiển thị chế độ đọc (Reading View) thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu View, chọn Reading View.
+Trong Powerpoint 2016, hiệu ứng Animation trong trong tab Animations dùng để làm gì?;;;Câu trả lời đúng là: Định đạng hiệu ứng cho các đối tượng trên slide.
+Trong Powerpoint, tổ hợp phím Ctrl + V thường được sử dụng để;;;Câu trả lời đúng là: Dán một đoạn văn bản từ Clipboard.
+Quy trình làm thuyết trình 3S bao gồm yếu tố nào?;;;Câu trả lời đúng là: Tất cả các đáp án
+Trong Powerpoint, tổ hợp phím được dùng để Đóng một trình chiếu đang mở?;;;Câu trả lời đúng là: Ctrl + F4
+Trong Powerpoint 2016, để định dạng canh Phải (Right) cho nội dung, thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong Powerpoint, để chọn Nhiều đối tượng trên một Slide ta sử dụng thao tác nào sau đây?;;;Câu trả lời đúng là: Nhấn Shift + Kích nút trái chuột vào đối tượng cần chọn
+Trong Powerpoint, tổ hợp phím được dùng để Đóng tài liệu đang mở?;;;Câu trả lời đúng là: Ctrl + W
+Trong PowerPoint 2016, để Chèn thêm một Slide mới (New Slide), thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn New Slide
+Quy tắc 3S bao gồm 3 yếu tố: Story-Một câu chuyện thuyết phục, Slides-Những Slide đơn giản, Speaker-Người thuyết trình thu hút. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
+Trong Powerpoint, để Tìm kiếm và Thay thế từ đó bằng từ khác trong dùng tổ hợp phím:;;;Câu trả lời đúng là: Ctrl + H
+Trong Powerpoint, muốn xóa slide hiện thời, thao tác cần thực hiện là:;;;Câu trả lời đúng là: Chọn slide cần xóa và nhấn phím Delete
+Hãy chọn đáp án phù hợp để điền vào chỗ trống “……” để hoàn thành câu sau:“Bài thuyết trình càng được …… thì càng tăng sức thuyết phục. Một trong những nguyên tắc cơ bản là không phải trình bày những gì bạn muốn mà trình bày những gì họ muốn nghe”.;;;Câu trả lời đúng là: chuẩn bị chu đáo
+Trong Powerpoint 2016, để Tạo hiệu ứng chuyển đổi giữa các trang, thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu Transitions, chọn kiểu Transitions tương ứng.
+Trong Powerpoint, muốn định dạng kiểu chữ Đậm, nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + B
+Trong PowerPoint, vào menu Design, chọn Themes dùng để làm gì?;;;Câu trả lời đúng là: Định dạng giao diện của slide.
+Trong Powerpoint 2016, để định dạng kiểu chữ Nghiêng (Italic) cho nội dung,  thực hiện:;;;Câu trả lời đúng là: Vào menu Home.
+Trong Powerpoint, muốn ẩn hoặc hiện thanh công cụ Ribbon, người sử dụng dùng tổ hợp phím nào?;;;Câu trả lời đúng là: Ctrl + F1
+Trong Powerpoint 2016, để định dạng canh trái, phải, giữa... cho bảng tính, thực hiện:;;;Câu trả lời đúng là: Vào menu Home | Paragraph
+Trong Powerpoint 2016, để Chèn tiêu đề (Header and Footer) cho Silde thực hiện thao tác:;;;Câu trả lời đúng là: Vào menu Insert, chọn Header & Footer.
+Trong Powerpoint, tổ hợp phím nào sẽ dùng để bật hộp thoại Tìm kiếm?;;;Câu trả lời đúng là: Ctrl + F
+Trong PowerPoint, khi chèn 1 đoạn nhạc vào Slide máy sẽ thông báo kiểu chọn “When clicked” nghĩa là:;;;Câu trả lời đúng là: Khi trình chiếu kích chuột
+Trong Powerpoint 2016, để Chèn được công thức toán học (Equation) thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Equation
+Chọn đáp án đúngKhi kể một cấu chuyện hay một ví dụ thực tế, bạn nên chọn cách nói nào cho phù hợp nhất?;;;Câu trả lời đúng là: Nói tùy hứng
+Trong Powerpoint 2016, sau khi áp hiệu ứng cho đối tượng trên Slide, muốn hiệu ứng xuất hiện đồng thời khi trình diễn, tại mục Start chọn:;;;Câu trả lời đúng là: With previous.
+Trong Powerpoint, trên 1 Textbox có nhiều dòng khác nhau nhưng không đều nhau, sau khi đã chọn đối tượng, và muốn có định dạng canh bằng hai bên (Justified). Nhấn tổ hợp phím nào để thực hiện điều này?;;;Câu trả lời đúng là: Ctrl + J
+Trong Powerpoint 2016, vào menu Insert, chọn Chart, và chọn Pie… dùng để:;;;Câu trả lời đúng là: Để chèn biểu đồ hình tròn.
+Trong  Powerpoint 2016, vào menu File, chọn Close dùng để;;;Câu trả lời đúng là: Đóng tệp hiện tại
+Trong Powerpoint 2016, để Chèn số trang cho slide (Slide Number) vào tài liệu thực hiện:;;;Câu trả lời đúng là: Vào menu Insert, chọn Slide Number.
+Dùng từ ngữ chuyên sâu sẽ làm khách hàng cảm thấy khó hiểu và làm cho buổi thuyết trình thất bại. Đúng hay sai?;;;Câu trả lời đúng là: Đúng
